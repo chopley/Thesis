@@ -61,7 +61,7 @@
 \newcommand{\tcpserver}[0]{tcp\_server\xspace}
 \newcommand{\degt}[0]{$^{\circ}$\xspace}
 \newcommand{\degc}[0]{$^{\circ}$C\xspace}
-\newcommand{\approx}[0]{$\approx$}
+\newcommand{\approximately}[0]{$\approx$}
 \newcommand{\CMB}{\nomenclature{CMB}{Cosmic Microwave Background}}
 
 
