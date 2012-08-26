@@ -1,0 +1,4 @@
+These measurements were made with the input to Tray 1 terminated- I then run through the entire RF chain, but without the final low frequency filters and with the LO at 4GHz- This shows the final bandpass, without any low frequency filters.
+
+These measurements do not have the LNA s conencted- I've done them as a system check for future reference
+

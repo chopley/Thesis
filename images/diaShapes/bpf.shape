@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+  <name>diaShapes - bpf</name>
+  <icon>bpf.png</icon>
+  <connections>
+    <point x="5" y="4"/>
+    <point x="15" y="4"/>
+    <point x="10" y="4"/>
+    <point x="5" y="4"/>
+    <point x="5" y="14"/>
+    <point x="5" y="9"/>
+    <point x="5" y="14"/>
+    <point x="15" y="14"/>
+    <point x="10" y="14"/>
+    <point x="15" y="14"/>
+    <point x="15" y="4"/>
+    <point x="15" y="9"/>
+    <point x="9.56045" y="12.3516"/>
+    <point x="10.4105" y="10.5516"/>
+    <point x="9.98545" y="11.4516"/>
+    <point x="10" y="7.1"/>
+    <point x="10.85" y="5.3"/>
+    <point x="10.425" y="6.2"/>
+  </connections>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="5" y1="4" x2="15" y2="4"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="5" y1="4" x2="5" y2="14"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="5" y1="14" x2="15" y2="14"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="15" y1="14" x2="15" y2="4"/>
+    <svg:path style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" d="M 8.20045 9.03656 C 9.15045,8.23656 8.58045,8.00656 9.58045,8.00656 C 10.5805,8.00656 10.0605,10.0766 11.0805,10.0066 C 12.1005,9.93656 11.6005,9.83656 12.5505,8.93656"/>
+    <svg:path style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" d="M 7.86045 11.7016 C 8.81045,10.9016 8.24045,10.6716 9.24045,10.6716 C 10.2405,10.6716 9.72045,12.7416 10.7405,12.6716 C 11.7605,12.6016 11.2605,12.5016 12.2105,11.6016"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="9.56045" y1="12.3516" x2="10.4105" y2="10.5516"/>
+    <svg:path style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" d="M 8.3 6.45 C 9.25,5.65 8.68,5.42 9.68,5.42 C 10.68,5.42 10.16,7.49 11.18,7.42 C 12.2,7.35 11.7,7.25 12.65,6.35"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="10" y1="7.1" x2="10.85" y2="5.3"/>
+  </svg:svg>
+</shape>

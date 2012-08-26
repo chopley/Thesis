@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99c (TeX Live 2009/Debian)
+The top-level auxiliary file: ConfirmationMain.aux
+The style file: agsm.bst
+Database file #1: ./bib_files/references.bib
+Warning--entry type for "murataAWR" isn't style-file defined
+--line 156 of file ./bib_files/references.bib
+You've used 12 entries,
+            2909 wiz_defined-function locations,
+            712 strings with 6931 characters,
+and the built_in function-call counts, 62240 in all, are:
+= -- 10190
+> -- 921
+< -- 0
++ -- 5012
+- -- 287
+* -- 5468
+:= -- 12383
+add.period$ -- 12
+call.type$ -- 12
+change.case$ -- 165
+chr.to.int$ -- 12
+cite$ -- 12
+duplicate$ -- 178
+empty$ -- 342
+format.name$ -- 327
+if$ -- 11141
+int.to.chr$ -- 5
+int.to.str$ -- 0
+missing$ -- 12
+newline$ -- 40
+num.names$ -- 124
+pop$ -- 58
+preamble$ -- 1
+purify$ -- 180
+quote$ -- 0
+skip$ -- 148
+stack$ -- 0
+substring$ -- 14560
+swap$ -- 23
+text.length$ -- 168
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 44
+warning$ -- 0
+while$ -- 259
+width$ -- 0
+write$ -- 156
+(There was 1 warning)

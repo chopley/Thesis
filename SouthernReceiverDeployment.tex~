@@ -1,0 +1,37 @@
+\chapter{The Southern C-BASS System}
+
+\section{System Diagram}
+  \subsection{Self-generated RFI considerations}
+  \subsection{Remote Operations}
+
+\section{Servo Control}
+  \subsection{Description}
+    \subsubsection{Requirements}
+    \subsubsection{Hardware}
+    \subsubsection{Software Integration}
+  \subsubsection{Sensor Hardware Design}
+  \subsection{Tests}
+    \subsubsection{12~GHz receiver on Geostationary satellite}
+    \subsubsection{Optical Pointing}
+
+
+\section{Primary Dish Profile}
+  \subsection{Photogrammetry}
+    \subsubsection{Dish Surface Measurement}
+    \subsubsection{Transportation Quality Control}
+
+  \subsection{Focal point checks}
+
+\section{Site Establishment}
+\subsection{Infrastructure}
+  \subsubsection{Power Provision}
+  \subsubsection{Optical Fibre}
+  \subsubsection{Access}
+    \subsubsection{Control Shelter Considerations}
+    \subsubsection{RFI Survey}
+
+
+\subsection{Science Requirements}
+  
+
+

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<sheet xmlns="http://www.lysator.liu.se/~alla/dia/dia-sheet-ns">
+	<!--Dia-Version: 0.94-->
+	<!--File: d:\settings&data\.dia\sheets\Optics.sheet-->
+	<!--Date: Thu Sep 02 11:10:26 2004-->
+	<!--For: jkellerman-->
+
+	<name>Optics</name>
+	<description>Optical Fibre Systems</description>
+	<contents>
+		<!--add shapes here-->
+		<object name="Optics - Circulator">
+			<description>Circulator</description></object>
+		
+		<object name="Optics - Polarisation Control">
+			<description>Polarisation Controller</description></object>
+
+		<object name="Optics - Polarisation Control (vertical)">
+			<description>Polarisation Controller</description></object>
+		
+		<object name="Optics - Coupler">
+			<description>Directional Coupler</description></object>
+		
+		<object name="Optics - Coupler (vertical)">
+			<description>Directional Coupler</description></object>
+		
+		<object name="Optics - Tuneable Coupler">
+			<description>Tuneable Coupler</description></object>
+		
+		<object name="Optics - DFB Laser">
+			<description>DFB Laser</description></object>
+
+			<object name="Optics - DFB Laser (vertical)">
+			<description>DFB Laser</description></object>
+		
+		<object name="Optics - Fibre">
+			<description>Long Fibre</description></object>
+		
+		<object name="Optics - Fibre (vertical)">
+			<description>Long Fibre</description></object>
+
+		<object name="Optics - Detector">
+			<description>Detector</description></object>
+		
+		<object name="Optics - Detector (vertical)">
+			<description>Detector</description></object>
+		
+		<object name="Optics - Scope">
+			<description>Osilloscope</description></object>
+		
+		<object name="Optics - Spectrum">
+			<description>Spectrum Analyser</description></object>
+		
+		<object name="Optics - Isolator">
+			<description>Optical Isolator</description></object>
+		
+		<object name="Optics - Isolator (vertical)">
+			<description>Optical Isolator</description></object>
+
+		<object name="Optics - EDFA">
+			<description>EDFA</description></object>
+
+		<object name="Optics - EDFA (vertical)">
+			<description>EDFA</description></object>
+
+		<object name="Optics - Variable Attenuator">
+			<description>Variable Attenuator</description></object>
+			
+		<object name="Optics - MZ Modulator">
+			<description>MZ Modulator</description></object>
+
+		<object name="Optics - MZ Modulator (vertical)">
+			<description>MZ Modulator</description></object>
+
+		<object name="Optics - Phase Modulator">
+			<description>Phase Modulator</description></object>
+		<object name="Optics - Phase Modulator (vertical)">
+			<description>Phase Modulator</description></object>
+			
+			<object name="Optics - Sine Wave">
+			<description>Sine Wave Source</description></object>
+		
+		<object name="Optics - Square Wave">
+			<description>Square Wave Source</description></object>
+		
+		<object name="Optics - LPG">
+			<description>Long Period Grating</description></object>
+
+		<object name="Optics - LPG (vertical)">
+			<description>Long Period Grating</description></object>
+
+			<object name="Optics - Beam">
+			<description>Light Beam</description></object>
+
+		<object name="Optics - Wave">
+			<description>Wave</description></object>
+</contents></sheet>

@@ -1,0 +1,476 @@
+@Book{Williams,
+author = {Williams, A.B},
+title = {{E}lectronic {F}ilter {D}esign},
+publisher = {McGraw-hill book Company},
+year = {1981},
+}
+
+@Book{control_systems_engineering,
+author= {Nise, N.S},
+title = {{C}ontrol {S}ystems {E}ngineering 3rd {E}dition},
+publisher ={John Wiley \& Sons},
+year ={2000},
+}
+
+@Book{control_systems_sinha,
+author={Sinha, N.K},
+title = {{C}ontrol {S}ystems},
+publisher ={Holt,Rinehart and Winston},
+year ={1986},
+}
+
+@TechReport{p0945.pdf,
+author = {Lamb, J.W and Woody, D.P},
+title = {{C}orrection of {T}hermally-induced {P}ointing and {F}ocus {E}rrors on the {OVRO} 10-{M} {A}ntennas},
+institution = {Owens Valley Radio Observatory, California Institute of Technology},
+year = {},
+}
+
+@TechReport{ptcspn10,
+author = {Condon, J.J},
+title = {{PTCS/PN/10}:{Q}uick {A}stronomical {C}orrections for {GBT} {P}ointing and {F}ocus {T}racking},
+institution = {GBT},
+year = {2003},
+month = {October},
+}
+
+@Article{control_telescope,
+author={Gawronski, W},
+title={{C}ontrol and {P}ointing {C}hallenges of ({R}adio) {T}elescopes},
+publisher={IPN Progress Report},
+year={2004},
+}
+
+@Book{vonh,
+author = {Von Hoemer,S},
+title = {{R}adio {T}elescopes for {M}illimetre {W}avelengths},
+publisher = {A+A},
+year = {1975},
+}
+
+@TechReport{greenbank,
+author = {Condon, J.J and Constantikes, K},
+title = {{PTCS/SN/8}: {P}recision {T}elescope {C}ontrol {S}ystem:  {C}ritical {E}xperiments},
+institution = {Green Bank Telescope},
+year = {2003},
+}
+
+@Article{1993AJCondon,
+author = {Condon, J.J and Broderick, J.J and Seielstad, G.A},
+title = {{T}he {P}arkes-{MIT}-{NRAO} {S}urveys. {IV} - {M}aps for the {S}outhern {S}urvey {C}overing -88$^{\circ}$ $<$ $\delta$ $<$ -37$^{\circ}$},
+journal = {AJ},
+year = {1993},
+month = {September},
+volume = {106},
+pages = {1095-1100},
+}
+
+@Article{effelsberg,
+author = {Nothnagel, A and Wirtz, C and Sauerbier, M and Sobanski,M },
+title = {{L}ocal {S}urvey at the {E}ffelsberg {R}adio {T}elescope 1997- {P}reliminary {R}esults},
+}
+
+@Article{4.85GHZ_sky_survey,
+author = {Condon, J.J and Broderick, J.J and Seielstad, G.A},
+title = {A 4.85 {GHz} {S}ky {S}urvey. {I}. {M}aps {C}overing 0$^{\circ}$ $<$ $\delta$ $<$ +75 $^{\circ}$},
+journal ={AJ},
+year = {1989},
+month = {April},
+volume = {97},
+pages={1064-1073},
+}
+
+@misc{slalib,
+author = {Wallace,P},
+title = {{SLALIB} {P}ositional {A}stronomy {S}oftware},
+howpublished = {\url{http://www.starlink.ac.uk/}},
+year = {2004},
+}
+
+@book{num_recipes_fortran77,
+author = {Press, W.H and Teukolsky, S.A and Vetterling, W.T and Flannery, B.P},
+title = {{N}umerical {R}ecipes in {F}ortran 77-{T}he {A}rt of {S}cientific {C}omputing {S}econd {E}dition},
+year = {2001},
+publisher = {Cambridge University Press},
+}
+@Article{angle_encoder,
+author = {Ukita, N and Ezawa, H and Mimura, H and Sugamuma, A and Kitazawa, K and Masuda, T and Kawaguch, N and Sugiyama, R and Miyawaki, K},
+title = {{A} {H}igh {P}recision {A}ngle {E}ncoder for a 10-m Submillimeter Antenna},
+journal = {Publ. of the Natl Astron. Obs. Japan},
+year = {2001},
+month = {March},
+}
+
+
+@TechReport{memo178,
+author = {Holdaway, M.A},
+title = {{E}ffects of {P}ointing {E}rrors on {M}osaic {I}mages with 8~m, 12~m and 15~m dishes},
+institution = {National Radio Astronomy Observatory},
+year = {1997},
+address = {949 N.Cherry Ave, Tucson, AZ, 85721-0655},
+month = {August},
+}
+
+
+
+@book{lapack,
+author = {Anderson, E and Bai, Zhao-jun, and Bischof, C and Demmel,J and Dongarra, J and Du Croz,J and Greenbaum,A and Hammarling,S and McKennet,A and Ostrouchov,S and Sorensem,D },
+title = {{LAPACK} {U}sers {G}uide },
+EDITION={Third},
+Publisher={Society for Industrial and Applied Mathematics},
+year = {1999},
+Address={Philadephia,PA},
+ISBN={0-89871-447-8(paperback)},
+}
+
+@Article{nobeyama,
+author = {Ukita, N},
+title = {{T}hermal {E}ffects on the {P}ointing of the {N}obeyama 45-m {T}elescope},
+journal = {Publ. Natl. Astron. Obs. Japan },
+year = {1999},
+volume = {5},
+pages = {139-147},
+
+}
+
+@TechReport{ptcssn3,
+author = {Condon, J.J},
+title = {{PTCS/SN/3}: {S}cientific {R}equirements for {H}igh-{F}requency {O}bservations with the {GBT}},
+institution = {},
+year = {},
+}
+
+@Article{1966BAN....18..465K,
+   author = {{Kaper}, H.~G. and {Smits}, D.~W. and {Schwarz}, U. and {Takakubo}, K. and 
+	{van Woerden}, H.},
+    title = {Computer Analysis of Observed Distributions into Gaussian Components},
+  journal = {BAIN},
+     year = {1966},
+   volume = {18},
+    pages = {465-487},
+   adsurl = {http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=1966BAN....18..465K&db_key=AST},
+  adsnote = {Provided by the Smithsonian/NASA Astrophysics Data System}
+}
+
+@Misc{MJD1,
+author = {Gaylard, M.M},
+title = {{U}ncertainty {E}stimates in {F}itting a {G}aussian {P}rofile},
+month = {September},
+year = {2005},
+}
+
+@Article{bayley,
+author = {{Bayley}, A.M and Davis, R.J and Haggis, J.S and Karcher, H},
+title = {{T}hermal effects on the pointing of the 32-m {MERLIN} radio telescope at {C}ambridge},
+journal = {},
+year = {},
+}
+
+
+@ARTICLE{1997PASP..109..166C,
+   author = {{Condon}, J.~J.},
+    title = {Errors in Elliptical Gaussian FITS},
+  journal = {PASP},
+     year = {1997},
+    month = {February},
+   volume = {109},
+    pages = {166-172},
+   adsurl = {http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=1997PASP..109..166C&db_key=AST},
+  adsnote = {Provided by the Smithsonian/NASA Astrophysics Data System}
+}
+
+@Booklet{antenna_theory,
+title = {{R}adio {T}elescopes and {I}nstrumentation},
+author = {{D}epartment of {P}hysics and {E}lectronics},
+address={{R}hodes {U}niversity},
+}
+
+
+
+
+@Booklet{antenna_theory1,
+title = {{P}ractical {A}stronomy- a hi-math introduction},
+author = {Gaylard, M.J},
+address = {Hartebeeshoek Radio Astronomy},
+month = {August},
+year = {2005},
+}
+
+@Misc{ansys,
+author = {{ANSYS}},
+title = {{ANSYS} 5.7},
+howpublished = {{S}oftware},
+year = {1994},
+}
+
+@Book{fea_matlab	,
+author = {Kwon, Y.W and Bang, H},
+title = {{T}he {F}inite {E}lement {M}ethod {U}sing {M}atlab (2nd Ed)},
+publisher = {CRC},
+year = {2000},
+series = {{CRC} {M}echanical {E}ngineering {S}eries},
+}
+
+@Misc{matlab,
+author = {{T}he {Mathworks}},
+title = {{MATLAB} 7.0},
+howpublished = {{Software}},
+}
+
+@TechReport{BIMATHRM1,
+author = {Lamb, J.W and Forster, J.R},
+title = {{Temperature Measurements on BIMA 6-m Antennas - Part 1: Backing Structure}},
+institution = {},
+year = {1993},
+month = {August},
+note = {MMA Memo 100},
+}
+@TechReport{Leighton_Thermal_1,
+author = {Lamb, J.W and Woody, D.P},
+title = {{Thermal Behavior of the Leighton 10-m Antenna Backing Structure}},
+institution = {{Owens Valley Radio Observatory, California Institute of Technology}},
+year = {1998},
+month = {October},
+note = {MMA Memo 234},
+}
+
+@misc{psychogenic,
+author ={Pat Deegan},
+title ={{AVR Project Makefile Template}},
+howpublished={\url{http://electrons.psychogenic.com}},
+}
+
+@misc{hartrao,
+title ={{HARTRAO Radio Telescope}},
+howpublished={\url{http://www.hartrao.ac.za/}},
+}
+
+@misc{uip,
+author ={Dunkels, A},
+title ={{The uIP Embedded TCP/IP Stack}},
+institution ={{S}wedish {I}nstitute of {C}omputer {S}cience},
+howpublished={\url{http://www.sics.se/~adam}},
+}
+
+@article{time_synchronisation,
+author ={Holmeide, O and Skeie,T},
+title = {{Time synchronization in switched Ethernet}},
+}
+
+@article{sntp,
+author={Kloth,R},
+title = {{SNTP date and time (UTC) from an {NTP} time server}},
+howpublished={\url{http://www.kloth.net/software/sntp.php}},
+}
+
+@book{computer_networks,
+author = {Tanenbaum, A},
+title = {{C}omputer {N}etworks 3rd {E}dition},
+publisher = {{P}rentice-{H}all {I}nternational, {I}nc},
+year = {1996},
+}
+
+@Manual{SNTP,
+title = {{RFC 2030 - Simple Network Time Protocol (SNTP) Version 4 for IPv4, IPv6 and OSI}},
+author = {Mills, D},
+organization = {{University of Delaware}},
+month = {October},
+year = {1996},
+}
+
+@article{wcs_slideshow,
+title = {{Introduction to celestial coordinate systems}},
+organization = {{Australian Virtual Observatory workshop,}{University of Melbourne}},
+
+howpublished={\url{http://www.atnf.csiro.au/people/mcalabre/WCS/Intro/WCS11.html}},
+}
+
+
+@Article{industrial_ethernet,
+author = {Schwab, C},
+title = {Looking behind the automation protocols},
+journal = {The Industrial Ethernet Book},
+year = {2004},
+month = {November},
+howpublished = {\url{http://ethernet.industrial-networking.com/articles/articledisplay.asp?id=38}},
+}
+
+@misc{wiki_UDP_encapsulation,
+   author = {Wikipedia},
+   title = {{TCP/IP model --- Wikipedia{,} The Free Encyclopedia}},
+   year = {2007},
+   url = {{\url{http://en.wikipedia.org/w/index.php?title=TCP/IP_model&oldid=140793240}}},
+   note = {[Online; accessed 27-June-2007]}
+ }
+
+@misc{ wiki:ethernet,
+   author = "Wikipedia",
+   title = "{Ethernet --- Wikipedia{,} The Free Encyclopedia}",
+   year = "2007",
+   url = "\url{http://en.wikipedia.org/w/index.php?title=Ethernet&oldid=140788887}",
+   note = "[Online; accessed 27-June-2007]"
+ }
+
+@misc{tcpvsudp,
+author ={Rodriguez, E},
+title ={{TCP} vs. {UDP}},
+institution ={Orlando Tech Works LLC},
+howpublished = {\url{http://www.skullbox.net/tcpudp.php}},
+}
+
+@TechReport{vlbi_pointing,
+author = {Himwich, W.E},
+title = {Pointing Model Derivation},
+institution = {{NASA/Goddard Space Flight Center
+Space Geodesy Project}
+},
+year = {1993},
+}
+
+@Article{condon_elliptical_gaussians,
+author = {Condon, J.J},
+title = {{Errors in Elliptical Gaussian Fits}},
+journal = {PASP},
+year = {1997},
+volume = {109},
+pages = {166-172},
+month = {February},
+}
+
+@InBook{matlab_help,
+author = {{MATLAB R14}},
+title = {{MATLAB} {H}elp},
+chapter = {{N}eural {N}etworks {T}oolbox},
+publisher = {{M}athworks},
+year = {},
+}
+
+@MastersThesis{oliver_king,
+author = {King, Oliver},
+title = {{The C-Band: Continuum Mapping and Measuring the
+Radio Environment}},
+school = {{R}hodes {U}niversity },
+year = {2006},
+}
+
+
+
+@Manual{ENC28J60,
+title = {{ENC28J60 Datasheet}},
+organization = {{Microchip}},
+year = {2004},
+}
+
+@Manual{ENC28J60_errata,
+title = {{ENC28J60 Rev.B4 Silicon Errata}},
+organization = {{Microchip}},
+}
+
+@Manual{external_sram,
+title = {{CS18LV10245 Datasheet}},
+organization = {{Chiplus}},
+year = {2004},
+}
+
+@Manual{AD667,
+title = {{Microprocessor-Compatible 12-Bit D/A Convertor-AD667*}},
+organization = {{Analog Devices}},
+}
+
+@Misc{cbass_website,
+title = {{C-BASS: C-Band All-Sky Survey}},
+howpublished = {\url{http://www.astro.caltech.edu/cbass/}},
+}
+
+@Manual{CBASS_Manual,
+title = {RFT Training Manual},
+organization = {NEC},
+year = {1998},
+}
+
+@Manual{ROC416,
+title = {{Mounting Instructions: ROC 415,416,417}},
+organization = {{HEIDENHAIN}},
+address = {{Tranreut, Germany}},
+}
+
+@TechReport{Gawronski_single_loop_control,
+author = {Gawronski, W},
+title = {{Single-Loop Antenna Control}},
+institution = {},
+year = {2002},
+}
+
+@INPROCEEDINGS{2001AAS...198.0502H,
+   author = {{Hunter}, T.~R. and {Wilson}, R.~W. and {Kimberk}, R. and {Leiker}, P.~S.
+},
+    title = "{A Digital Motion Control System for Large Telescopes}",
+booktitle = {Bulletin of the American Astronomical Society},
+     year = 2001,
+   series = {Bulletin of the American Astronomical Society},
+   volume = 33,
+    month = may,
+    pages = {791-+},
+   adsurl = {http://adsabs.harvard.edu/abs/2001AAS...198.0502H},
+  adsnote = {Provided by the Smithsonian/NASA Astrophysics Data System http://cfa-www.harvard.edu/~thunter/servo/servo.html}
+}
+
+@Manual{control_systems_large_millimetre_telescope,
+title = {{Control Systems of the Large Millimeter Telescope}},
+author = {Gawronski, W and Souccar, K},
+organization = {{Jet Propulsion Laboratory, CALTECH}},
+month = {{August}},
+year = {2003},
+}
+@Manual{ATA_servo_loop,
+title = {{The ATA Servo Loop}},
+author = {Harp, G.R},
+year = {2006},
+}
+
+@Book{Ogata,
+author = {Ogata, K},
+title = {{Modern Control Engineering}},
+publisher = {{Prentice-Hall}},
+year = {1970},
+series = {{Electrical Engineering Series}},
+}
+
+
+@Manual{yaskawa_dc_servopack,
+title = {{SERVOPACK-DC Servomotor Controller for Speed Control Type CPCR-MR01C to -MR99C}},
+organization = {{Yaskawa}},
+note ={Document:TSE-C717-12G},
+}
+
+@Manual{atmega128,
+title = {{ATMega128}},
+organization = {{ATMEL}},
+edition = {Rev. 2467O–AVR–10/06},
+}
+
+@Manual{FRABA_ENCODER,
+title = {{Absolute Rotary Encoder-SSI}},
+organization = {{POSITAL FRABA}},
+note = {info@posital.de},
+annote = {www.posital.de}
+}
+
+@Misc{pid_without_phd,
+author = {Westcott, T},
+title = {{PID without a PHD}},
+howpublished = {{Internet-www.embedded.com}},
+}
+
+@Booklet{neural_network_overfitting_1,
+title = {{GENERALIZATION FOR MULTILAYER NEURAL NETWORK
+  BAYESIAN REGULARIZATION OR EARLY STOPPING}},
+author = {Doan, C and Liong,S },
+address = {{Department of Civil Engineering}},
+note = {{National University of Singapore, Singapore}},
+}
+
+
+
+
+

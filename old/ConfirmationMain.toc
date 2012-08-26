@@ -1,0 +1,30 @@
+\contentsline {section}{\numberline {1}Introduction}{1}
+\contentsline {section}{\numberline {2}Radio Frequency Interference (RFI)}{3}
+\contentsline {section}{\numberline {3}The Digital Receiver}{8}
+\contentsline {subsection}{\numberline {3.1}RF Chain}{8}
+\contentsline {subsection}{\numberline {3.2}Hardware State Summary}{10}
+\contentsline {subsection}{\numberline {3.3}Software and FPGA Firmware Status}{12}
+\contentsline {subsection}{\numberline {3.4}Test Measurements}{14}
+\contentsline {section}{\numberline {4}Summary and Timeline}{16}
+\contentsline {subsection}{\numberline {4.1}Control and Data Acquisition}{16}
+\contentsline {subsection}{\numberline {4.2}Backend}{16}
+\contentsline {subsection}{\numberline {4.3}RF Chain}{16}
+\contentsline {subsection}{\numberline {4.4}South African Infrastructure}{17}
+\contentsline {subsection}{\numberline {4.5}Timeline}{17}
+\contentsline {section}{\numberline {5}Appendix}{19}
+\contentsline {section}{\numberline {A}Stokes Parameters}{20}
+\contentsline {section}{\numberline {B}Pseudo-correlation architecture}{21}
+\contentsline {section}{\numberline {C}Digital Implementation}{23}
+\contentsline {subsection}{\numberline {C.1}Advantages of the Digital Implementation}{23}
+\contentsline {section}{\numberline {D}Filter Design}{26}
+\contentsline {subsection}{\numberline {D.1}Specifications}{26}
+\contentsline {subsection}{\numberline {D.2}Design}{26}
+\contentsline {subsection}{\numberline {D.3}Manufacture and Testing}{28}
+\contentsline {subsection}{\numberline {D.4}Cooling the Filters}{30}
+\contentsline {subsection}{\numberline {D.5}Final Filter Design and Packaging}{31}
+\contentsline {subsection}{\numberline {D.6}Filter Installation at Owens Valley Antenna}{33}
+\contentsline {subsection}{\numberline {D.7}Other Possibilities}{34}
+\contentsline {section}{\numberline {E}Digital Receiver Hardware}{35}
+\contentsline {subsection}{\numberline {E.1}Down mixer}{35}
+\contentsline {subsubsection}{\numberline {E.1.1}Mixer Results}{35}
+\contentsline {subsection}{\numberline {E.2}Filter Design}{40}

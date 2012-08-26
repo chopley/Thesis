@@ -1,0 +1,59 @@
+\section{Summary and Timeline}
+
+\subsection{Control and Data Acquisition}
+In October of 2010, I spent some time at the South Africa C-BASS beginning integration of various systems. The primary focus of this trip was to set the antenna up for control under the Owens Valley control system, so as to keep the systems identical. 
+
+The trip was a success and the South African antenna is now usable with the OVRO control system. Optical pointing was undertaken to test the control system, and we were able to achieve pointing errors of less than $1'$~rms. This was detailed in a previous report. 
+
+We are currently working on a similar integration of the new digital backend.
+
+\subsection{Backend}
+
+The digital backend is currently undergoing full testing, preliminary results have shown it to be functional. Rotating the polarisation angle of input test signals produce expected rotation of Stokes U into Stokes Q. 
+
+\subsection{RF Chain}
+All components have been manufactured except the Low Noise Amplifiers (LNA's) and the $500\rightarrow1000$~MHz bandpass filters. The LNA's have been a major problem, but they should be ready by the end of October for full system integration. We are confident that the next iteration of the bandpass filters will perform adequately. All other post-cryostat RF components have been built, and tested using the digital backend.
+
+\subsection{South African Infrastructure}
+The following are in place:
+\begin{itemize}
+ \item Antenna
+ \item Power
+ \item Fibre
+\end{itemize}
+
+We still need to design and build a shielded box to house the electronics in (due to strict RFI policies in place for the final deployment location). We also need to procure a water chiller (for cooling the Helium Compressor) and a vacuum pump. This process has begun and we have quotes for these.
+
+
+
+\subsection{Timeline}
+
+
+Once C-BASS is deployed and commissioned, the survey will take a minimum of 8~months. This is the survey time I have used in the timeline below.
+\begin{itemize}
+ \item \textbf{September 2011} : Complete integration of ROACH with control software. Finalise RF chain (with regard to position of 2 way splitters). Complete assembly of $500\rightarrow1000$~MHz bandpass filter. Order Vacuum pump and water chiller. Assemble additional broadband amplifier plate.
+ \item \textbf{October 2011} : Integrate C-BASS frontend i.e OMT, Linear to Circular, $180^{\circ}$ hybrids, couplers, and low noise amplifiers.
+ \item \textbf{November 2011} : Bring assembled C-BASS frontend to Oxford for commissioning with ROACH backend. Test complete RF assembly on Oxford roof.
+ \item \textbf{December 2011} : Probably away
+ \item \textbf{January 2012} : Continue Oxford commissioning. Feed horn beam measurements in anechoic chamber, system temperature, system integration etc.
+ \item \textbf{February 2012} : Commissioning/Shipping
+ \item \textbf{March 2012} : Deployment at Hartebeeshoek Radio Observatory (HartRAO). Begin integrated commissioning tests e.g beam pattern measurements, system temperature checks, remote operability etc.
+ \item \textbf{April 2012} : Continue commissioning at HartRAO- focus on robustness and remote recovery of system.
+ \item \textbf{May 2012} : Continue commissioning at HartRAO. Try to make sure that there is data that could be used in thesis if there are major problems in the transfer to Klerefontein.
+ \item \textbf{June 2012} : Transfer receiver to Klerefontein site. Check system operation- begin survey.
+ \item \textbf{July 2012} : Survey (Begin writing thesis with data obtained at HartRAO and commissioning data at Klerefontein)
+ \item \textbf{August 2012} : Survey (Continue writing thesis)
+ \item \textbf{September 2012} : Survey (Continue writing thesis with data obtained at HartRAO- possibly begin including survey data from Klerefontein)
+ \item \textbf{October 2012} : Survey (Continue writing thesis. Begin including survey data from Klerefontein)
+ \item \textbf{November 2012} : Survey continues. First draft of thesis. This draft will probably focus on commissioning data rather than survey data.
+ \item \textbf{December 2012} : Revision of thesis to include latest survey data.
+\end{itemize}
+
+
+
+
+
+
+
+
+\clearpage

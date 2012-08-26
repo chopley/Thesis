@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+  <name>diaShapes - hybrid</name>
+  <icon>hybrid.png</icon>
+  <connections>
+    <point x="2.88691" y="2.40095"/>
+    <point x="4.68691" y="2.40095"/>
+    <point x="3.78691" y="2.40095"/>
+    <point x="2.88691" y="4.40095"/>
+    <point x="4.68691" y="4.40095"/>
+    <point x="3.78691" y="4.40095"/>
+    <point x="2.78691" y="2.50095"/>
+    <point x="2.78691" y="4.30095"/>
+    <point x="2.78691" y="3.40095"/>
+    <point x="4.78691" y="2.50095"/>
+    <point x="4.78691" y="4.30095"/>
+    <point x="4.78691" y="3.40095"/>
+    <point x="4.75762" y="2.43024"/>
+    <point x="4.75762" y="4.37166"/>
+    <point x="4.75762" y="3.40095"/>
+    <point x="2.8162" y="2.43024"/>
+    <point x="2.8162" y="4.37166"/>
+    <point x="2.8162" y="3.40095"/>
+    <point x="2.8162" y="2.81852"/>
+    <point x="4.75762" y="3.98338"/>
+    <point x="3.78691" y="3.40095"/>
+    <point x="2.8162" y="3.98338"/>
+    <point x="4.75762" y="2.81852"/>
+    <point x="3.78691" y="3.40095"/>
+  </connections>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:rect style="fill: #00ff00" x="2.88691" y="2.40095" width="1.8" height="2"/>
+    <svg:path style="fill: #00ff00" d="M 2.88691,2.40095 A 0.1,0.1 0 0 0 2.78691,2.50095 L 2.88691,2.50095 z"/>
+    <svg:path style="fill: #00ff00" d="M 4.78691,2.50095 A 0.1,0.1 0 0 0 4.68691,2.40095 L 4.68691,2.50095 z"/>
+    <svg:rect style="fill: #00ff00" x="2.78691" y="2.50095" width="2" height="1.8"/>
+    <svg:path style="fill: #00ff00" d="M 2.78691,4.30095 A 0.1,0.1 0 0 0 2.88691,4.40095 L 2.88691,4.30095 z"/>
+    <svg:path style="fill: #00ff00" d="M 4.68691,4.40095 A 0.1,0.1 0 0 0 4.78691,4.30095 L 4.68691,4.30095 z"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke-linejoin: round; stroke: #000000" x1="2.88691" y1="2.40095" x2="4.68691" y2="2.40095"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke-linejoin: round; stroke: #000000" x1="2.88691" y1="4.40095" x2="4.68691" y2="4.40095"/>
+    <svg:path style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke-linejoin: round; stroke: #000000" d="M 2.88691,2.40095 A 0.1,0.1 0 0 0 2.78691,2.50095"/>
+    <svg:path style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke-linejoin: round; stroke: #000000" d="M 4.78691,2.50095 A 0.1,0.1 0 0 0 4.68691,2.40095"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke-linejoin: round; stroke: #000000" x1="2.78691" y1="2.50095" x2="2.78691" y2="4.30095"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke-linejoin: round; stroke: #000000" x1="4.78691" y1="2.50095" x2="4.78691" y2="4.30095"/>
+    <svg:path style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke-linejoin: round; stroke: #000000" d="M 2.78691,4.30095 A 0.1,0.1 0 0 0 2.88691,4.40095"/>
+    <svg:path style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke-linejoin: round; stroke: #000000" d="M 4.68691,4.40095 A 0.1,0.1 0 0 0 4.78691,4.30095"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke-linejoin: round; stroke: #000000" x1="4.75762" y1="2.43024" x2="4.75762" y2="4.37166"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke-linejoin: round; stroke: #000000" x1="2.8162" y1="2.43024" x2="2.8162" y2="4.37166"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke-linejoin: round; stroke: #000000" x1="2.8162" y1="2.81852" x2="4.75762" y2="3.98338"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke-linejoin: round; stroke: #000000" x1="2.8162" y1="3.98338" x2="4.75762" y2="2.81852"/>
+  </svg:svg>
+</shape>

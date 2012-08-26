@@ -1,0 +1,256 @@
+\begin{thebibliography}{xx}
+
+\harvarditem{{American Technical Ceramics}}{2012}{atc550L104}
+{American Technical Ceramics}  \harvardyearleft 2012\harvardyearright ,
+  `{ATC550L104 Datasheet}',  p.~9001.
+\newline\harvardurl{http://www.atceramics.com/atc550\_datasheet.html}
+
+\harvarditem{{Analog Devices}}{2011{\em a}}{ad8624}
+{Analog Devices}  \harvardyearleft 2011{\em a}\harvardyearright , {AD8624
+  Datasheet}, Technical report, Analog Devices.
+\newline\harvardurl{http://www.analog.com/static/imported-files/data\_sheets/A%
+D8622\_8624.pdf}
+
+\harvarditem{{Analog Devices}}{2011{\em b}}{ref19x}
+{Analog Devices}  \harvardyearleft 2011{\em b}\harvardyearright , {REF19x
+  Series}, Technical report, Analog Devices.
+\newline\harvardurl{http://www.analog.com/static/imported-files/data\_sheets/R%
+EF19xSeries.pdf}
+
+\harvarditem{ArmitageCaplan}{2011}{ArmitageCaplan2011}
+ArmitageCaplan, C.  \harvardyearleft 2011\harvardyearright , `{Largescale
+  polarized foreground component separation for Planck}', {\em Monthly Notices
+  of \ldots} {\bf 000}(March).
+\newline\harvardurl{http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2966.201%
+1.19307.x/full}
+
+\harvarditem[Barkats et~al.]{Barkats, Bischoff, Farese, Gaier, Gundersen,
+  Hedman, Hyatt, McMahon, Samtleben, Staggs, Stefanescu, Vanderlinde
+  \harvardand\ Winstein}{2005}{Barkats2005}
+Barkats, D., Bischoff, C., Farese, P., Gaier, T., Gundersen, J.~O., Hedman,
+  M.~M., Hyatt, L., McMahon, J.~J., Samtleben, D., Staggs, S.~T., Stefanescu,
+  E., Vanderlinde, K. \harvardand\ Winstein, B.  \harvardyearleft
+  2005\harvardyearright , `{Cosmic Microwave Background Polarimetry Using
+  Correlation Receivers with the PIQUE and CAPMAP Experiments}', {\em The
+  Astrophysical Journal Supplement Series} {\bf 159}(1),~1--26.
+\newline\harvardurl{http://stacks.iop.org/0067-0049/159/i=1/a=1}
+
+\harvarditem[Bennett et~al.]{Bennett, Hill, Hinshaw, Nolta, Odegard, Page,
+  Spergel, Weiland, Wright, Halpern \harvardand\ Others}{2003}{Bennett2003}
+Bennett, C., Hill, R., Hinshaw, G., Nolta, M., Odegard, N., Page, L., Spergel,
+  D., Weiland, J., Wright, E., Halpern, M. \harvardand\ Others
+  \harvardyearleft 2003\harvardyearright , `{First-year Wilkinson microwave
+  anisotropy probe (WMAP) observations: foreground emission}', {\em The
+  Astrophysical Journal Supplement Series} {\bf 148},~97.
+\newline\harvardurl{http://iopscience.iop.org/0067-0049/148/1/97
+  http://www.springerlink.com/index/U7N188241NX16284.pdf}
+
+\harvarditem{Cain}{2010}{Cain2010}
+Cain, J.  \harvardyearleft 2010\harvardyearright , {Parasitic Inductance of
+  Multilayer Ceramic Capacitors}, Technical report, AVX.
+\newline\harvardurl{www.avx.com/docs/techinfo/parasitc.pdf}
+
+\harvarditem{Condon}{n.d.}{Condon}
+Condon, J.  \harvardyearleft n.d.\harvardyearright , `{Continuum
+  Observations}'.
+
+\harvarditem{Delabrouille \harvardand\ Cardoso}{2009}{Delabrouille2009}
+Delabrouille, J. \harvardand\ Cardoso, J.  \harvardyearleft
+  2009\harvardyearright , {\em {Data Analysis in Cosmology}}, Vol. 665 of {\em
+  Lecture Notes in Physics}, Springer Berlin Heidelberg, Berlin, Heidelberg.
+\newline\harvardurl{http://www.springerlink.com/index/10.1007/978-3-540-44767-%
+2}
+
+\harvarditem{Deng \harvardand\ Falg}{2001}{Deng2001}
+Deng, G. \harvardand\ Falg, W.  \harvardyearleft 2001\harvardyearright , `{An
+  Evaluation of an Off-the-shelf Digital Close- Range Photogrammetric Software
+  Package}',  {\bf 67}(2),~227--233.
+
+\harvarditem[Dunkley et~al.]{Dunkley, Spergel, Komatsu, Hinshaw, Larson, Nolta,
+  Odegard, Page, Bennett, Gold, Hill, Jarosik, Weiland, Halpern, Kogut, Limon,
+  Meyer, Tucker, Wollack \harvardand\ Wright}{2009}{Dunkley2009}
+Dunkley, J., Spergel, D.~N., Komatsu, E., Hinshaw, G., Larson, D., Nolta,
+  M.~R., Odegard, N., Page, L., Bennett, C.~L., Gold, B., Hill, R.~S., Jarosik,
+  N., Weiland, J.~L., Halpern, M., Kogut, a., Limon, M., Meyer, S.~S., Tucker,
+  G.~S., Wollack, E. \harvardand\ Wright, E.~L.  \harvardyearleft
+  2009\harvardyearright , `{Five-Year Wilkinson Microwave Anisotropy Probe (
+  Wmap ) Observations: Bayesian Estimation of Cosmic Microwave Background
+  Polarization Maps}', {\em The Astrophysical Journal} {\bf
+  701}(2),~1804--1813.
+\newline\harvardurl{http://stacks.iop.org/0004-637X/701/i=2/a=1804?key=crossre%
+f.63c1817d14d523f8ff5d42d28be21168}
+
+\harvarditem{Fiore}{2001}{broadbandCaps}
+Fiore, B.~R.  \harvardyearleft 2001\harvardyearright , {Capacitors in Broadband
+  Application}, Technical report, American Technical Ceramics.
+\newline\harvardurl{http://www.atceramics.com/Userfiles/caps\_broadbnd\_apps.p%
+df}
+
+\harvarditem[Futatsumori et~al.]{Futatsumori, Hikage \harvardand\
+  Nojima}{2008}{Futatsumori2008}
+Futatsumori, S., Hikage, T. \harvardand\ Nojima, T.  \harvardyearleft
+  2008\harvardyearright , `{ACLR Improvement of a 5-GHz Power Amplifier Using
+  High-Temperature Superconducting Reaction- Type Transmitting Filters}', {\em
+  Microwave Conference Proceedings} (October),~1145--1148.
+
+\harvarditem{Galindo}{1964}{Galindo1964}
+Galindo, V.  \harvardyearleft 1964\harvardyearright , `{Design of
+  Dual-Reflector Antennas with Arbitrary Phase and Amplitude Distortions}',
+  {\em IEEE Transactions on Antennas and Propagation} {\bf 12}(4),~403--408.
+
+\harvarditem[Garcia-Garcia et~al.]{Garcia-Garcia, Bonache, Gil, Martin,
+  Marques, Falcone, Lopetegi, Laso \harvardand\ Sorolla}{2005}{Garcia2005}
+Garcia-Garcia, J., Bonache, J., Gil, I., Martin, F., Marques, R., Falcone, F.,
+  Lopetegi, T., Laso, M. \harvardand\ Sorolla, M.  \harvardyearleft
+  2005\harvardyearright , `{Comparison of electromagnetic band gap and
+  split-ring resonator microstrip lines as stop band structures}', {\em
+  Microwave and Optical Technology Letters} {\bf 44}(4),~376--379.
+\newline\harvardurl{http://doi.wiley.com/10.1002/mop.20640}
+
+\harvarditem[Gold et~al.]{Gold, Bennett, Hill, Hinshaw, Odegard, Page, Spergel,
+  Weiland, Dunkley, Halpern, Jarosik, Kogut, Komatsu, Larson, Meyer, Nolta,
+  Wollack \harvardand\ Wright}{2009}{Gold2009}
+Gold, B., Bennett, C.~L., Hill, R.~S., Hinshaw, G., Odegard, N., Page, L.,
+  Spergel, D.~N., Weiland, J.~L., Dunkley, J., Halpern, M., Jarosik, N., Kogut,
+  a., Komatsu, E., Larson, D., Meyer, S.~S., Nolta, M.~R., Wollack, E.
+  \harvardand\ Wright, E.~L.  \harvardyearleft 2009\harvardyearright ,
+  `{Five-Year Wilkinson Microwave Anisotropy Probe Observations: Galactic
+  Foreground Emission}', {\em The Astrophysical Journal Supplement Series} {\bf
+  180}(2),~265--282.
+\newline\harvardurl{http://stacks.iop.org/0067-0049/180/i=2/a=265?key=crossref%
+.069d33969f0beffca95eb6d970cb64d2}
+
+\harvarditem{Hansen \harvardand\ Banday}{2006}{Hansen2006}
+Hansen, F. \harvardand\ Banday, A.  \harvardyearleft 2006\harvardyearright ,
+  `{Foreground subtraction of cosmic microwave background maps using WI-FIT
+  (wavelet-based high-resolution fitting of internal templates)}', {\em The
+  Astrophysical \ldots} (2003),~784--796.
+\newline\harvardurl{http://iopscience.iop.org/0004-637X/648/2/784}
+
+\harvarditem{King}{2009}{King2009}
+King, O.  \harvardyearleft 2009\harvardyearright , {C-BASS: C-Band All-Sky
+  Survey}, PhD thesis.
+
+\harvarditem{Leach \harvardand\ Cardoso}{2008}{Leach2008}
+Leach, S. \harvardand\ Cardoso, J.  \harvardyearleft 2008\harvardyearright ,
+  `{Component separation methods for the Planck mission}', {\em Astronomy \&
+  Astrophysics} {\bf 615},~597--615.
+\newline\harvardurl{http://arxiv.org/abs/0805.0269}
+
+\harvarditem{Leitch \harvardand\ Kovac}{2005}{Leitch2005a}
+Leitch, E. \harvardand\ Kovac, J.  \harvardyearleft 2005\harvardyearright ,
+  `{Degree angular scale interferometer 3 year cosmic microwave background
+  polarization results}', {\em The Astrophysical \ldots} {\bf 900}(Paper
+  I),~10--20.
+\newline\harvardurl{http://iopscience.iop.org/0004-637X/624/1/10}
+
+\harvarditem{Luhmann}{2010}{Luhmann2010}
+Luhmann, T.  \harvardyearleft 2010\harvardyearright , `{Close range
+  photogrammetry for industrial applications}', {\em ISPRS Journal of
+  Photogrammetry and Remote Sensing} {\bf 65}(6),~558--569.
+\newline\harvardurl{http://linkinghub.elsevier.com/retrieve/pii/S0924271610000%
+584}
+
+\harvarditem{{Matthaei, G and Young, L and Jones}}{1980}{matthaei1980}
+{Matthaei, G and Young, L and Jones}, E.  \harvardyearleft
+  1980\harvardyearright , {\em {Microwave Filters, Impedance-Matching Networks,
+  and Coupling Structures}}, Artech House Publishers.
+
+\harvarditem[Mcmahon et~al.]{Mcmahon, Samtleben, Staggs, Vanderlinde
+  \harvardand\ Winstein}{2005}{Mcmahon2005}
+Mcmahon, J.~J., Samtleben, D., Staggs, S.~T., Vanderlinde, K. \harvardand\
+  Winstein, B.  \harvardyearleft 2005\harvardyearright , `{FIRST MEASUREMENTS
+  OF THE POLARIZATION OF THE COSMIC MICROWAVE BACKGROUND RADIATION}', {\em The
+  Astrophysical Journal} pp.~1--4.
+
+\harvarditem{Meeks}{1976}{meeks_1976}
+Meeks, M.  \harvardyearleft 1976\harvardyearright , {\em {Methods of
+  Experimental Physics}}, Academic Press.
+
+\harvarditem[Mennella et~al.]{Mennella, Bersanelli, Butler, Maino, Mandolesi,
+  Morgante, Valenziano, Villa, Gaier, Seiffert \harvardand\
+  Others}{2003}{Mennella2003b}
+Mennella, A., Bersanelli, M., Butler, R., Maino, D., Mandolesi, N., Morgante,
+  G., Valenziano, L., Villa, F., Gaier, T., Seiffert, M. \harvardand\ Others
+  \harvardyearleft 2003\harvardyearright , `{Advanced pseudo-correlation
+  radiometers for the Planck-LFI instrument}', {\em Arxiv preprint
+  astro-ph/0307116} (1).
+\newline\harvardurl{http://arxiv.org/abs/astro-ph/0307116}
+
+\harvarditem{Murata}{2009}{murataAWR}
+Murata  \harvardyearleft 2009\harvardyearright , `{Murata Components Library
+  for AWR Microwave Office}'.
+
+\harvarditem{Murata}{2011}{murataInductors}
+Murata  \harvardyearleft 2011\harvardyearright , {Murata Chip Inductors
+  Datasheet}, Technical report, Murata.
+\newline\harvardurl{http://www.murata.com/products/catalog/pdf/o05e.pdf}
+
+\harvarditem{Murata}{n.d.}{MurataCapacitors}
+Murata  \harvardyearleft n.d.\harvardyearright , {GJM High Frequency Ceramic
+  Capacitors}, Technical report, Murata.
+\newline\harvardurl{http://www.murataamericas.com/murata/murata.nsf/promo\_asc%
+ap\_gjm.pdf}
+
+\harvarditem{Pozar}{2005}{Pozar2005}
+Pozar, D.  \harvardyearleft 2005\harvardyearright , {\em {Microwave
+  Engineering}}.
+
+\harvarditem[Readhead et~al.]{Readhead, Myers, Pearson, Sievers, Mason,
+  Contaldi, Bond, Bustos, Altamirano, Achermann, Bronfman, Carlstrom,
+  Cartwright, Casassus, Dickinson, Holzapfel, Kovac, Leitch, May, Padin,
+  Pogosyan, Pospieszalski, Pryke, Reeves, Shepherd \harvardand\
+  Torres}{2004}{Readhead2004}
+Readhead, A. C.~S., Myers, S.~T., Pearson, T.~J., Sievers, J.~L., Mason, B.~S.,
+  Contaldi, C.~R., Bond, J.~R., Bustos, R., Altamirano, P., Achermann, C.,
+  Bronfman, L., Carlstrom, J.~E., Cartwright, J.~K., Casassus, S., Dickinson,
+  C., Holzapfel, W.~L., Kovac, J.~M., Leitch, E.~M., May, J., Padin, S.,
+  Pogosyan, D., Pospieszalski, M., Pryke, C., Reeves, R., Shepherd, M.~C.
+  \harvardand\ Torres, S.  \harvardyearleft 2004\harvardyearright ,
+  `{Polarization observations with the Cosmic Background Imager.}', {\em
+  Science (New York, N.Y.)} {\bf 306}(5697),~836--44.
+\newline\harvardurl{http://www.ncbi.nlm.nih.gov/pubmed/15472038}
+
+\harvarditem{Reich}{2006}{Reich:2006iq}
+Reich, W.  \harvardyearleft 2006\harvardyearright , `{Galactic polarization
+  surveys}'.
+
+\harvarditem[Seiffert et~al.]{Seiffert, Mennella, Burigana, Mandolesi,
+  Bersanelli, Meinhold \harvardand\ Lubin}{2002}{Seiffert2002}
+Seiffert, M., Mennella, A., Burigana, C., Mandolesi, N., Bersanelli, M.,
+  Meinhold, P. \harvardand\ Lubin, P.  \harvardyearleft 2002\harvardyearright ,
+  `{1/f noise and other systematic effects in the Planck-LFI radiometers}',
+  {\em Astronomy and Astrophysics} {\bf 391}(3),~1185--1197.
+\newline\harvardurl{http://www.edpsciences.org/10.1051/0004-6361:20020880}
+
+\harvarditem[Tegmark et~al.]{Tegmark, de~Oliveira-Costa \harvardand\
+  Hamilton}{2003}{Tegmark2003}
+Tegmark, M., de~Oliveira-Costa, A. \harvardand\ Hamilton, A.  \harvardyearleft
+  2003\harvardyearright , `{High resolution foreground cleaned CMB map from
+  WMAP}', {\em Physical Review D} {\bf 68}(12),~1--15.
+\newline\harvardurl{http://link.aps.org/doi/10.1103/PhysRevD.68.123523}
+
+\harvarditem{{Texas Instruments}}{2005}{tl074d}
+{Texas Instruments}  \harvardyearleft 2005\harvardyearright , {TL074D
+  Datasheet}, Technical Report March, Texas Instruments.
+\newline\harvardurl{http://www.ti.com/lit/ds/symlink/tl074.pdf}
+
+\harvarditem{{Texas Instruments}}{2011}{lm4050}
+{Texas Instruments}  \harvardyearleft 2011\harvardyearright , {LM4050 / LM4050Q
+  Precision Micropower Shunt Voltage Reference}, Technical report, Texas
+  Instruments.
+\newline\harvardurl{http://www.ti.com/lit/ds/snos455d/snos455d.pdf}
+
+\harvarditem{Tinbergen}{1996}{tinbergen_1996}
+Tinbergen, J.  \harvardyearleft 1996\harvardyearright , {\em {Astronomical
+  Polarimetry}}, Cambridge University Press.
+
+\harvarditem{Urs \harvardand\ Rangu}{2011}{Urs2011}
+Urs, B. \harvardand\ Rangu, M.  \harvardyearleft 2011\harvardyearright ,
+  `{Estimation of parasitic elements of multilayer ceramic capacitors}', {\em
+  2011 IEEE 17th International Symposium for Design and Technology in
+  Electronic Packaging (SIITME)} pp.~261--264.
+\newline\harvardurl{http://ieeexplore.ieee.org/lpdocs/epic03/wrapper.htm?arnum%
+ber=6102731}
+
+\end{thebibliography}

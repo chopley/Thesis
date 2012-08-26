@@ -1,0 +1,73 @@
+\begin{thebibliography}{xx}
+
+\harvarditem{{Bennett} et~al.}{2003}{2003ApJS..148...97B}
+{Bennett}, C.~L. et~al.  \harvardyearleft 2003\harvardyearright , `{First-Year
+  Wilkinson Microwave Anisotropy Probe (WMAP) Observations: Foreground
+  Emission}', {\em \apjs} {\bf 148},~97--117.
+
+\harvarditem{{Chiueh} \harvardand\ {Ma}}{2002}{2002ApJ...578...12C}
+{Chiueh}, T. \harvardand\ {Ma}, C.-J.  \harvardyearleft 2002\harvardyearright ,
+  `{The Annulus-filtered E and B Modes in Cosmic Microwave Background Radiation
+  Polarization}', {\em ApJ} {\bf 578},~12--24.
+
+\harvarditem[Futatsumori et~al.]{Futatsumori, Hikage, Nojima, Akasegawa,
+  Nakanish \harvardand\ Yamanaka}{2008}{splitRingHTS}
+Futatsumori, S., Hikage, T., Nojima, T., Akasegawa, A., Nakanish, T.
+  \harvardand\ Yamanaka, K.  \harvardyearleft 2008\harvardyearright , `Aclr
+  improvement of a 5-ghz power amplifier using high-temperature superconducting
+  reaction- type transmitting filters', {\em Proceedings of the 38th European
+  Microwave Conference} .
+
+\harvarditem[Garcia-Garcia et~al.]{Garcia-Garcia, Bonache, Gil, Martin,
+  Marques, Falcone, Lopetegi, Laso \harvardand\
+  Sorolla}{2004}{splitRingClassic}
+Garcia-Garcia, J., Bonache, J., Gil, I., Martin, F., Marques, R., Falcone, F.,
+  Lopetegi, T., Laso, M. \harvardand\ Sorolla, M.  \harvardyearleft
+  2004\harvardyearright , `Comparison of electromagnetic band gap and split
+  ring resonator microstrip lines as stop band structures', {\em Microwave and
+  Optical Technology} .
+
+\harvarditem{King}{2009}{oliver_2009}
+King, O.  \harvardyearleft 2009\harvardyearright , {C-BASS: The C-Band All-Sky
+  Survey}, PhD thesis, {University of Oxford}.
+
+\harvarditem[Matthaei et~al.]{Matthaei, Young \harvardand\
+  Jones}{1980}{matthaei1980}
+Matthaei, G., Young, L. \harvardand\ Jones, E.  \harvardyearleft
+  1980\harvardyearright , {\em Microwave Filters, Impedance-Matching Networks,
+  and Coupling Structures}, Artech House Publishers.
+
+\harvarditem[Mennella et~al.]{Mennella, Bersanelli, Butler, Maino, Mandolesi,
+  Morgante, Valenziano, Villa, Gaier, Seiffert et~al.}{2003}{Mennella:2003ii}
+Mennella, A., Bersanelli, M., Butler, R., Maino, D., Mandolesi, N., Morgante,
+  G., Valenziano, L., Villa, F., Gaier, T., Seiffert, M. et~al.
+  \harvardyearleft 2003\harvardyearright , `Advanced pseudo-correlation
+  radiometers for the planck-lfi instrument', {\em Arxiv preprint
+  astro-ph/0307116} .
+
+\harvarditem{Mortonson \harvardand\ Hu}{2007}{mortonson_2007}
+Mortonson, M. \harvardand\ Hu, W.  \harvardyearleft 2007\harvardyearright ,
+  `The maximum b-mode polarization of the cosmic microwave background from
+  inhomogeneous reionization', {\em The Astrophysical Journal} {\bf 657},~1.
+
+\harvarditem{Murata}{2009}{murataAWR}
+Murata  \harvardyearleft 2009\harvardyearright , `Murata components library for
+  awr microwave office',
+  \url{http://www.murata.com/products/design_support/awr/index.html}.
+\newline\harvardurl{\url{http://www.murata.com/products/design_support/awr/ind%
+ex.html}}
+
+\harvarditem{Reich}{2006}{Reich:2006iq}
+Reich, W.  \harvardyearleft 2006\harvardyearright , `Galactic polarization
+  surveys', {\em Arxiv preprint astro-ph/0603465} .
+
+\harvarditem{{Seiffert} et~al.}{2002}{Seiffert:2002gh}
+{Seiffert}, M. et~al.  \harvardyearleft 2002\harvardyearright , `{1/f noise and
+  other systematic effects in the Planck-LFI radiometers}', {\em \aap} {\bf
+  391},~1185--1197.
+
+\harvarditem{Tinbergen}{1996}{tinbergen_1996}
+Tinbergen, J.  \harvardyearleft 1996\harvardyearright , {\em {Astronomical
+  Polarimetry}}, {Cambridge University Press}.
+
+\end{thebibliography}

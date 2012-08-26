@@ -1,0 +1,118 @@
+\contentsline {chapter}{\numberline {1}Introduction}{1}
+\contentsline {section}{\numberline {1.1}Science Goals}{1}
+\contentsline {section}{\numberline {1.2}}{1}
+\contentsline {section}{\numberline {1.3}Foreground Removal Techniques}{1}
+\contentsline {section}{\numberline {1.4}Survey Requirements}{2}
+\contentsline {subsection}{\numberline {1.4.1}Beam Size}{2}
+\contentsline {subsection}{\numberline {1.4.2}Confusion Limit}{2}
+\contentsline {chapter}{\numberline {2}Overview of the C-BASS Project}{3}
+\contentsline {section}{\numberline {2.1}Northern Antenna}{3}
+\contentsline {subsection}{\numberline {2.1.1}Optical Configuration}{3}
+\contentsline {subsection}{\numberline {2.1.2}The Analogue Radiometer/Polarimeter}{4}
+\contentsline {subsection}{\numberline {2.1.3}Survey Environment}{4}
+\contentsline {subsection}{\numberline {2.1.4}State of Survey}{4}
+\contentsline {section}{\numberline {2.2}Southern Antenna}{4}
+\contentsline {subsection}{\numberline {2.2.1}Optical Configuration}{4}
+\contentsline {subsection}{\numberline {2.2.2}The Digital Radiometer/Polarimeter}{4}
+\contentsline {subsection}{\numberline {2.2.3}State of Survey}{4}
+\contentsline {section}{\numberline {2.3}Notch Filters}{5}
+\contentsline {subsection}{\numberline {2.3.1}Radio Frequency Interference (RFI)}{5}
+\contentsline {subsection}{\numberline {2.3.2}Filter Design}{10}
+\contentsline {subsection}{\numberline {2.3.3}Specifications}{10}
+\contentsline {subsection}{\numberline {2.3.4}Design}{10}
+\contentsline {subsection}{\numberline {2.3.5}Manufacture and Testing}{12}
+\contentsline {subsection}{\numberline {2.3.6}Cooling the Filters}{14}
+\contentsline {subsection}{\numberline {2.3.7}Filter Installation at Owens Valley Antenna}{15}
+\contentsline {subsection}{\numberline {2.3.8}Other Possibilities}{15}
+\contentsline {chapter}{\numberline {3}The Southern Receiver and Component Designs}{17}
+\contentsline {section}{\numberline {3.1}Motivation}{17}
+\contentsline {subsection}{\numberline {3.1.1}Block Diagram}{17}
+\contentsline {subsection}{\numberline {3.1.2}Designs Choices}{20}
+\contentsline {subsection}{\numberline {3.1.3}Passive Component Insertion Loss}{20}
+\contentsline {subsubsection}{Coaxial Cable Insertion Loss Model}{21}
+\contentsline {section}{\numberline {3.2}Digital Hardware}{23}
+\contentsline {subsection}{\numberline {3.2.1}Roach}{23}
+\contentsline {subsection}{\numberline {3.2.2}iADC}{23}
+\contentsline {subsubsection}{Power Levels}{23}
+\contentsline {subsubsection}{Linearity}{23}
+\contentsline {subsubsection}{Van Fleck Corrections}{23}
+\contentsline {section}{\numberline {3.3}Low Frequency Filters}{23}
+\contentsline {subsection}{\numberline {3.3.1}Filter Design}{24}
+\contentsline {subsection}{\numberline {3.3.2}Component Choices}{27}
+\contentsline {subsection}{\numberline {3.3.3}Manufacture Techniques and Packaging}{27}
+\contentsline {subsection}{\numberline {3.3.4}Performance}{31}
+\contentsline {section}{\numberline {3.4}Double Sideband Mixers}{31}
+\contentsline {subsection}{\numberline {3.4.1}Design and Component Choice}{31}
+\contentsline {subsection}{\numberline {3.4.2}Performance}{31}
+\contentsline {section}{\numberline {3.5}DC-6GHz Amplifiers}{31}
+\contentsline {subsection}{\numberline {3.5.1}Performance}{32}
+\contentsline {subsection}{\numberline {3.5.2}Component Choice}{32}
+\contentsline {subsection}{\numberline {3.5.3}Wideband Biasing Chokes}{32}
+\contentsline {subsection}{\numberline {3.5.4}DC Blocking Capacitors}{32}
+\contentsline {section}{\numberline {3.6}Low Noise Amplifier Power Supply}{33}
+\contentsline {chapter}{\numberline {4}Receiver Testing}{36}
+\contentsline {section}{\numberline {4.1}Introduction}{37}
+\contentsline {subsection}{\numberline {4.1.1}Order of Components}{37}
+\contentsline {section}{\numberline {4.2}Load Stabilisation}{37}
+\contentsline {subsection}{\numberline {4.2.1}Cryocontrol}{37}
+\contentsline {subsection}{\numberline {4.2.2}Bobbin Redesign}{37}
+\contentsline {subsection}{\numberline {4.2.3}Temperature Sensor}{37}
+\contentsline {section}{\numberline {4.3}RF and IF Band Definitions}{37}
+\contentsline {subsection}{\numberline {4.3.1}System Temperature}{37}
+\contentsline {section}{\numberline {4.4}2-20GHz Amplifier System Tests}{37}
+\contentsline {subsection}{\numberline {4.4.1}System Temperature}{37}
+\contentsline {section}{\numberline {4.5}DC-4GHz Amplifiers}{37}
+\contentsline {subsection}{\numberline {4.5.1}Wideband Capacitors}{37}
+\contentsline {subsection}{\numberline {4.5.2}Wideband Biasing Choke}{37}
+\contentsline {section}{\numberline {4.6}Horn Tests}{37}
+\contentsline {subsection}{\numberline {4.6.1}Anechoic Chamber Measurements}{37}
+\contentsline {section}{\numberline {4.7}Full System Tests}{37}
+\contentsline {subsection}{\numberline {4.7.1}Low Noise Amplifiers (LNA)}{37}
+\contentsline {subsection}{\numberline {4.7.2}Cold Component Tests}{37}
+\contentsline {section}{\numberline {4.8}Design Improvements over Northern Frontend}{37}
+\contentsline {subsection}{\numberline {4.8.1}SuperSMA connectors}{37}
+\contentsline {subsection}{\numberline {4.8.2}Redesign RF route}{37}
+\contentsline {subsection}{\numberline {4.8.3}Thermal decoupling of temperature Load}{37}
+\contentsline {chapter}{\numberline {5}The Southern C-BASS System}{38}
+\contentsline {section}{\numberline {5.1}System Diagram}{39}
+\contentsline {subsection}{\numberline {5.1.1}Self-generated RFI considerations}{39}
+\contentsline {subsection}{\numberline {5.1.2}Remote Operations}{39}
+\contentsline {section}{\numberline {5.2}Servo Control}{39}
+\contentsline {subsection}{\numberline {5.2.1}Description}{39}
+\contentsline {subsubsection}{Requirements}{39}
+\contentsline {subsubsection}{Hardware}{39}
+\contentsline {subsubsection}{Software Integration}{39}
+\contentsline {subsubsection}{Sensor Hardware Design}{39}
+\contentsline {subsubsection}{Optical Pointing}{39}
+\contentsline {section}{\numberline {5.3}Primary Dish Profile}{39}
+\contentsline {subsection}{\numberline {5.3.1}Photogrammetry}{39}
+\contentsline {subsubsection}{Target Choice}{40}
+\contentsline {subsubsection}{Primary Shape}{40}
+\contentsline {subsubsection}{Transportation Quality Control}{41}
+\contentsline {subsubsection}{Independent Check of Photogrammetry and First Light}{41}
+\contentsline {section}{\numberline {5.4}Site Establishment}{44}
+\contentsline {subsection}{\numberline {5.4.1}Infrastructure}{44}
+\contentsline {subsubsection}{Power Provision}{44}
+\contentsline {subsubsection}{Optical Fibre}{44}
+\contentsline {subsubsection}{Access}{44}
+\contentsline {subsubsection}{Control Shelter Considerations}{44}
+\contentsline {subsubsection}{RFI Survey}{44}
+\contentsline {subsection}{\numberline {5.4.2}Science Requirements}{44}
+\contentsline {chapter}{\numberline {6}Deploying the Southern Receiver}{47}
+\contentsline {section}{\numberline {6.1}Strategy}{47}
+\contentsline {section}{\numberline {6.2}Commissioning Observations}{47}
+\contentsline {subsection}{\numberline {6.2.1}Beam Patterns}{47}
+\contentsline {subsection}{\numberline {6.2.2}System Temperature}{47}
+\contentsline {subsection}{\numberline {6.2.3}Power Spectra}{47}
+\contentsline {chapter}{\numberline {7}Preliminary Data (if possible)}{48}
+\contentsline {section}{\numberline {7.1}Science Project}{48}
+\contentsline {subsection}{\numberline {7.1.1}TBD:Galactic Centre?Spinning Dust Regions? deep CMB fields?}{48}
+\contentsline {subsection}{\numberline {7.1.2}Data Reduction}{48}
+\contentsline {subsection}{\numberline {7.1.3}Data Analysis}{48}
+\contentsline {chapter}{\numberline {8}Conclusisons}{49}
+\contentsline {section}{\numberline {8.1}What's been done}{49}
+\contentsline {section}{\numberline {8.2}What remains}{49}
+\contentsline {section}{\numberline {.1}Stokes Parameters}{50}
+\contentsline {section}{\numberline {.2}Pseudo-correlation architecture}{51}
+\contentsline {section}{\numberline {.3}Digital Implementation}{53}
+\contentsline {subsection}{\numberline {.3.1}Advantages of the Digital Implementation}{53}

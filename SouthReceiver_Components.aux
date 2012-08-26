@@ -1,0 +1,115 @@
+\relax 
+\@writefile{toc}{\contentsline {chapter}{\numberline {3}The Southern Receiver and Component Designs}{17}}
+\@writefile{lof}{\addvspace {10\p@ }}
+\@writefile{lot}{\addvspace {10\p@ }}
+\@writefile{toc}{\contentsline {section}{\numberline {3.1}Motivation}{17}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.1.1}Block Diagram}{17}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3.1}{\ignorespaces Diagram of the analog front end of the digital receiver. There are significantly fewer analog components than the Northern Hemisphere polarimeter (see Appendix\nobreakspace  {}.2\hbox {}\xspace  , Figure\nobreakspace  {}2\hbox {}\xspace  ). The diagram shows the down-conversion of the 1\nobreakspace  {}GHz band (into two 500\nobreakspace  {}MHz bands) followed by the ADC capture. The digital processing is shown on Figure\nobreakspace  {}3.2\hbox {}\xspace   \relax }}{18}}
+\newlabel{fig:digital_receiver}{{3.1}{18}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3.2}{\ignorespaces Diagram of the digital polarimeter. The diagram shows one of the 500\nobreakspace  {}MHz bands. The signals are sampled, fast-Fourier transformed, gain and phase adjusted, demodulated, added, correlated and then accumulated to produce the values required for the Stokes parameters. See Appendix\nobreakspace  {}.1\hbox {}\xspace  , Equations\nobreakspace  {}1\hbox {}$\rightarrow $4\hbox {} for clarification on the correlations used to produce the Stokes parameters\relax }}{19}}
+\newlabel{fig:digital_receiver_mine}{{3.2}{19}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.1.2}Designs Choices}{20}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.1.3}Passive Component Insertion Loss}{20}}
+\newlabel{eq:Friis_Equation}{{3.1}{20}}
+\citation{Pozar2005}
+\@writefile{toc}{\contentsline {subsubsection}{Coaxial Cable Insertion Loss Model}{21}}
+\newlabel{eq:resistance_length}{{3.2}{21}}
+\newlabel{eq:impedance}{{3.3}{21}}
+\newlabel{eq:dielectric_attenuation}{{3.6}{21}}
+\@writefile{toc}{\contentsline {section}{\numberline {3.2}Digital Hardware}{23}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.2.1}Roach}{23}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.2.2}iADC}{23}}
+\@writefile{toc}{\contentsline {subsubsection}{Power Levels}{23}}
+\@writefile{toc}{\contentsline {subsubsection}{Linearity}{23}}
+\@writefile{toc}{\contentsline {subsubsection}{Van Fleck Corrections}{23}}
+\@writefile{toc}{\contentsline {section}{\numberline {3.3}Low Frequency Filters}{23}}
+\citation{matthaei1980}
+\citation{murataAWR}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.3.1}Filter Design}{24}}
+\newlabel{sec:lowfreqFilters}{{3.3.1}{24}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3.3}{\ignorespaces Low frequency lumped element filter designs and manufacture\relax }}{25}}
+\newlabel{fig:filterDesigns}{{3.3}{25}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3.4}{\ignorespaces Simulated filter performance against measured performance. \relax }}{26}}
+\newlabel{fig:simvsmeasuredlpf10a}{{3.4}{26}}
+\citation{murataInductors}
+\citation{murataInductors}
+\citation{murataInductors}
+\citation{MurataCapacitors}
+\citation{MurataCapacitors}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.3.2}Component Choices}{27}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.3.3}Manufacture Techniques and Packaging}{27}}
+\newlabel{fig:LowFrequency0_500MHz}{{3.5a}{28}}
+\newlabel{sub@fig:LowFrequency0_500MHz}{{(a)}{a}}
+\newlabel{fig:LowFrequency500_1000MHza}{{3.5b}{28}}
+\newlabel{sub@fig:LowFrequency500_1000MHza}{{(b)}{b}}
+\newlabel{fig:LowFrequencyFilters}{{\caption@xref {fig:LowFrequencyFilters}{ on input line 168}}{28}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3.5}{\ignorespaces The 500\nobreakspace  {}MHz lowpass filter and the 500$\rightarrow $1000MHz bandpass filter. Since the bandpass filter operates at high frequenciess where lumped element design is difficult, we decided to make the band pass filter from a cascaded high pass filter (500MHz) and low pass filter (1000MHz). This allowed us to optimise the high end and low end independently. There is still a little work to do on the 1000\nobreakspace  {}MHz filter (i.e the high end of the bandpass filter), but out understanding of these components' behavious at high frequency has improved significantly, and we believe this will be reflected in the next iteration\relax }}{28}}
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(a)}{\ignorespaces {The 0$\rightarrow $500MHz Low pass filter.}}}{28}}
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(b)}{\ignorespaces {The 1000\nobreakspace {}MHz low pass filter }}}{28}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3.6}{\ignorespaces Different manufacturing styles of chip inductors \citep  {murataInductors}\xspace  \relax }}{29}}
+\newlabel{fig:inductorStyles}{{3.6}{29}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3.7}{\ignorespaces Comparison of different stages of the Filter construction process. These plots show the importance of properly enclosing the filter boards\relax }}{30}}
+\newlabel{fig:filterBoxing}{{3.7}{30}}
+\citation{Urs2011,broadbandCaps,Cain2010}
+\@writefile{lof}{\contentsline {figure}{\numberline {3.8}{\ignorespaces Final low frequency filter built into compact box. Notice the symmetry in the placement of components. The complete filter features a copper lid soldered into place completely sealing the unit. We have found that the boxing and lids are very important for optimal filter performance, as is apparent from Figure\nobreakspace  {}3.7\hbox {}\xspace  . Also notice the solder joint between the PCB and the box wall. This reduces high frequency resonance artifacts, presumably caused by the (otherwise) exposed cavity\relax }}{31}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.3.4}Performance}{31}}
+\@writefile{toc}{\contentsline {section}{\numberline {3.4}Double Sideband Mixers}{31}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.4.1}Design and Component Choice}{31}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.4.2}Performance}{31}}
+\@writefile{toc}{\contentsline {section}{\numberline {3.5}DC-6GHz Amplifiers}{31}}
+\citation{Cain2010}
+\citation{atc550L104}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.5.1}Performance}{32}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.5.2}Component Choice}{32}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.5.3}Wideband Biasing Chokes}{32}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.5.4}DC Blocking Capacitors}{32}}
+\newlabel{eq:capacitorReactance}{{3.7}{32}}
+\citation{lm4050}
+\citation{tl074d}
+\citation{ref19x}
+\citation{ad8624}
+\citation{lm4050}
+\citation{tl074d}
+\citation{ref19x}
+\citation{ad8624}
+\citation{ref19x}
+\citation{ad8624}
+\citation{ref19x}
+\citation{ad8624}
+\@writefile{toc}{\contentsline {section}{\numberline {3.6}Low Noise Amplifier Power Supply}{33}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3.9}{\ignorespaces The original amplifier power supply schematic. $\pm $10V reference was supplied by LM4050 Zener diode references (thermal stability 50ppm/$^{\circ }$C\xspace  \citep  {lm4050}\xspace  ), and TL074D opamps (Vo$\approx $3000uV $\Delta $V$_{OS}$/$\Delta $C$\approx $18uV/$^{\circ }$C\xspace  \citep  {tl074d}\xspace  ) were used for the gain and current stages . These were replaced by the more thermally stable REF195 voltage reference \citep  {ref19x}\xspace   and AD8624 opamps \citep  {ad8624}\xspace  . Figure\nobreakspace  {}3.10\hbox {}\xspace   gives the schematic of the implementation. \relax }}{33}}
+\newlabel{fig:LNFPowerSupply}{{3.9}{33}}
+\newlabel{fig:NewPowerSupplyCircuit}{{3.10a}{34}}
+\newlabel{sub@fig:NewPowerSupplyCircuit}{{(a)}{a}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3.10}{\ignorespaces The updated-LNA Power Supply Board-The +5V reference voltage is provided by a REF195 E-Grade reference IC with a temperature coefficient of less than 5ppm/$^{\circ }$C \citep  {ref19x}\xspace  . The AD8624 opamps (Vo$\approx $10uV $\Delta $V$_{OS}$/$\Delta $C$\approx $1.2uV/$^{\circ }$C\xspace  ) \citep  {ad8624}\xspace   \relax }}{34}}
+\newlabel{fig:lnaPSUNew}{{3.10}{34}}
+\@setckpt{SouthReceiver_Components}{
+\setcounter{page}{36}
+\setcounter{equation}{7}
+\setcounter{enumi}{0}
+\setcounter{enumii}{0}
+\setcounter{enumiii}{0}
+\setcounter{enumiv}{0}
+\setcounter{footnote}{0}
+\setcounter{mpfootnote}{0}
+\setcounter{part}{0}
+\setcounter{chapter}{3}
+\setcounter{section}{6}
+\setcounter{subsection}{0}
+\setcounter{subsubsection}{0}
+\setcounter{paragraph}{0}
+\setcounter{subparagraph}{0}
+\setcounter{figure}{10}
+\setcounter{table}{0}
+\setcounter{NAT@ctr}{0}
+\setcounter{SC@C}{0}
+\setcounter{r@tfl@t}{0}
+\setcounter{ContinuedFloat}{0}
+\setcounter{KVtest}{0}
+\setcounter{subfigure}{0}
+\setcounter{subfigure@save}{2}
+\setcounter{lofdepth}{1}
+\setcounter{subtable}{0}
+\setcounter{subtable@save}{0}
+\setcounter{lotdepth}{1}
+}

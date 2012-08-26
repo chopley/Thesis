@@ -1,0 +1,210 @@
+
+
+
+\documentclass[english,a4paper,titlepage,12pt]{report}
+
+%\usepackage{glossaries}
+%\usepackage{harvard}
+\usepackage{natbib}
+\bibliographystyle{agsm}
+% \usepackage{harvard}
+ %\usepackage[dcucite]{harvard} 
+\usepackage{a4wide}
+\usepackage{aas_macros}
+\usepackage{sidecap}
+%\usepackage{agsm}
+%\usepackage{jjastron}
+%\bibliographystyle{justin}
+%\bibliographystyle{}
+\usepackage{fancyhdr}
+\usepackage{chronology}
+\usepackage{url}
+\usepackage{graphicx}
+\usepackage{rotating}
+\usepackage{xspace}
+\usepackage{tikz}
+\usetikzlibrary{decorations}
+\usepackage{subfloat}
+\usepackage{subfig}
+%\usetikzlibrary{snakes} 
+\usepackage{colortbl}
+\usepackage{setspace}
+
+%\makeglossary
+
+
+
+
+
+\setlength{\hoffset}{-0.5in}
+\setlength{\headheight}{20mm}
+\setlength{\voffset}{-0.2in}
+\setlength{\textwidth}{17.5cm}
+\setlength{\textheight}{21cm}
+\setlength{\headwidth}{\textwidth}
+
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\footrulewidth}{0.4pt}
+
+\lhead{}
+\rhead{}
+\chead{\large Thesis.ThesisFinal }
+
+\newcommand{\fign}[1]{Figure~\ref{#1}\xspace}
+\newcommand{\eqn}[1]{Equation~\ref{#1}\xspace}
+\newcommand{\secn}[1]{Section~\ref{#1}\xspace}
+\newcommand{\appen}[1]{Appendix~\ref{#1}\xspace}
+\newcommand{\citeasnoun}[1]{\citet{#1}\xspace}
+\renewcommand{\cite}[1]{\citep{#1}\xspace}
+
+\newcommand{\controlprogram}[0]{rewritetcp\xspace}
+\newcommand{\tcpserver}[0]{tcp\_server\xspace}
+\newcommand{\degt}[0]{$^{\circ}$\xspace}
+\newcommand{\degc}[0]{$^{\circ}$C\xspace}
+\newcommand{\approx}[0]{$\approx$}
+\newcommand{\CMB}{\nomenclature{CMB}{Cosmic Microwave Background}}
+
+
+\author{Charles Copley\\Hertford College\\University of Oxford}
+\title{Thesis.ThesisFinal}
+%\college{Hertford College}
+%\printglossary
+%\addcontentsline{toc}{chapter}{Glossary} % remove this line if you don't want a table of contents entry for the glossary
+
+
+
+\begin{document}
+
+
+%\bibliographystyle{bibfiles/justin.bst}
+%\citationstyle{agsm}
+\pagestyle{empty}
+%\renewcommand\thepage{}
+\begin{center}
+
+\begin{figure}[ht]
+\centering
+\begin{tabular}{ccc}
+\begin{minipage}{3cm}
+\includegraphics[scale=0.25]{./images/logos/OxfordLogo.png}
+\end{minipage}
+&
+\begin{minipage}{9cm}
+\centering
+\textbf{\large University of Oxford}
+\vspace{1 cm}
+
+\textbf{\large Hertford College}
+\end{minipage}
+&
+\begin{minipage}{3cm}
+\includegraphics[scale=0.25]{./images/logos/OxfordLogo.png}
+\end{minipage}
+\end{tabular}
+\end{figure}
+\vspace{4 cm}
+
+
+
+\textbf{\huge The C-Band All Sky Survey}
+\vspace{1 cm}
+
+
+\textbf{{\large Submitted in fulfillment of the
+requirements for the award
+of a D.Phil
+at the University of Oxford
+}}
+% \textbf{\Huge }
+\vspace{7 cm}
+%\textbf{\large A thesis submitted for the degree of}
+%\vspace{0.2 cm}
+
+%\textbf{\large Doctor of Applied Sciences}
+%\vspace{0.2 cm}
+
+\textbf{\large presented by Charles Copley\\supervised by Professor Michael Jones}
+\vspace{1 cm}
+
+\textbf{\today}
+\end{center}
+\cleardoublepage
+
+
+
+
+%\maketitle
+\tableofcontents
+\newpage
+\pagestyle{fancy}
+\doublespace
+\begin{abstract}
+The C-Band All Sky Survey (C-BASS) is a survey of the sky foreground in both intensity and polarisation at a frequency of 5~GHz with a resolution of $\approx$ 0.8$^{\circ}$. Northern and Southern sky coverage is provided by antennas located at the Owens Valley Radio Observatory (OVRO) in California, and the \textit{Meer}KAT support base in South Africa, respectively.
+
+The primary science goal is to provide a C-Band all sky intensity and polarisation map to augment the WMAP surveys. This lower frequency constraint will allow improved foreground subtraction in Cosmic Microwave Background (CMB) experiments.  Removal of  foregound contamination will place a limit on the success of CMB experiments that attempt to detect the B-Mode polarisation of the CMB. 
+
+This report details the technical developments of the experiment (both North and Southern surveys), the status of the Northern sky survey, and provides details of the new digital receiver being designed and built to deploy on the South African telescope.
+\end{abstract}
+
+%\fancyfoot[R]{Page \thepage}
+
+\include{Introduction} \clearpage
+\include{CBASSProject} \clearpage
+\include{NorthernSystem} \clearpage
+\include{SouthReceiver_Components}\clearpage
+\include{ReceiverTesting}\clearpage
+\include{SouthernSystem} \clearpage
+\include{SouthernReceiverDeployment} \clearpage
+\include{PreliminaryData} \clearpage
+\include{Conclusions} \clearpage
+
+%\input{ovroData.tex} \clearpage
+%\input{SummaryofStatus.tex}\clearpage
+%\input{currentStatus.tex}
+%\newpage
+%\part{Previous Experience and Qualifications}
+%\setcounter{section}{0}
+
+
+
+
+\clearpage
+\newpage
+%\part{Intentions}
+\setcounter{section}{0}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\appendix
+\input{appendix/stokes.tex}
+%\input{appendix/rfiappendix.tex}
+%\input{appendix/digitalhardwareAppendix.tex}
+
+
+%\subfloat[Passband]{\includegraphics[height=0.18\textheight]{images/mixers/pg_0007.pdf}}
+
+
+
+
+
+
+
+\clearpage
+\singlespace
+\bibliography{./bib_files/library}
+
+
+
+\end{document}

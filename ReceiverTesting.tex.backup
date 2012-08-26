@@ -1,0 +1,67 @@
+\chapter{Receiver Testing}
+
+\section{Introduction}
+  \subsection{Order of Components}
+
+
+\section{Load Stabilisation}
+  \subsection{Cryocontrol}
+\subsection{Bobbin Redesign}
+\subsection{Temperature Sensor}
+
+
+\section{RF and IF Band Definitions}
+
+
+
+
+\begin{figure}[ht]{
+ \centering
+\subfloat[]{\includegraphics[width=0.4\textwidth,height=0.25\textheight]{./images/digitalReceiver/BandPassPlots/IFBandPass4GHzLO.pdf}}
+\subfloat[]{includegraphics[width=\textwidth]{./images/digitalReceiver/BandPassPlots/IFBandPass4_5GHzLO.pdf}}
+
+}
+
+
+
+\begin{figure}[ht]
+ \centering
+ \includegraphics[width=\textwidth]{./images/digitalReceiver/BandPassPlots/IFBandPass4_5GHzLO.pdf}
+ % IFBandPass4.5GHzLO.pdf: 842x595 pixel, 72dpi, 29.70x20.99 cm, bb=0 0 842 595
+ \caption{The IF Band definitions using the 4.5GHz LO}
+ \label{fig:IFBand4.5GHzLO}
+\end{figure}
+
+
+  \subsection{System Temperature}
+
+\section{2-20GHz Amplifier System Tests}
+  \subsection{System Temperature}
+
+\section{DC-4GHz Amplifiers}
+
+\subsection{Wideband Capacitors}
+
+\subsection{Wideband Biasing Choke}
+
+\section{Horn Tests}
+  \subsection{Anechoic Chamber Measurements}
+
+
+\section{Full System Tests}
+  \subsection{Low Noise Amplifiers (LNA)}
+
+\subsection{Cold Component Tests} 
+
+\section{Design Improvements over Northern Frontend}
+
+  \subsection{SuperSMA connectors}
+
+  \subsection{Redesign RF route}
+
+  \subsection{Thermal decoupling of temperature Load}
+
+
+  
+
+

@@ -1,0 +1,172 @@
+@Article{Smoot:1998jk,
+     author    = "Smoot, George F.",
+     title     = "{Synchrotron Radiation as CMB Foreground}",
+     year      = "1998",
+     eprint    = "astro-ph/9902201",
+     archivePrefix = "arXiv",
+     SLACcitation  = "%%CITATION = ASTRO-PH/9902201;%%"
+}
+
+
+
+@ARTICLE{2003NewAR..47.1017L,
+   author = {{Lamarre}, J.~M. and others},
+    title = "{The Planck High Frequency Instrument, a third generation CMB experiment, and a full sky submillimeter survey}",
+  journal = {New Astronomy Review},
+   eprint = {arXiv:astro-ph/0308075},
+     year = 2003,
+    month = dec,
+   volume = 47,
+    pages = {1017-1024},
+      doi = {10.1016/S1387-6473(03)00223-9},
+   adsurl = {http://adsabs.harvard.edu/abs/2003NewAR..47.1017L},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+
+@ARTICLE{2003ApJS..148...97B,
+   author = {{Bennett}, C.~L. and others
+	},
+    title = "{First-Year Wilkinson Microwave Anisotropy Probe (WMAP) Observations: Foreground Emission}",
+  journal = {\apjs},
+   eprint = {arXiv:astro-ph/0302208},
+ keywords = {Cosmology: Cosmic Microwave Background, Cosmology: Observations, Cosmology: Diffuse Radiation, Galaxy: Halo, Galaxy: Structure, ISM: Structure},
+     year = 2003,
+    month = sep,
+   volume = 148,
+    pages = {97-117},
+      doi = {10.1086/377252},
+   adsurl = {http://adsabs.harvard.edu/abs/2003ApJS..148...97B},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+
+
+
+
+@ARTICLE{Mennella:2003ii,
+   author = {{Mennella}, A. and others},
+    title = "{Advanced pseudo-correlation radiometers for the Planck-LFI instrument}",
+  journal = {ArXiv Astrophysics e-prints},
+   eprint = {arXiv:astro-ph/0307116},
+ keywords = {Astrophysics},
+     year = 2003,
+    month = jul,
+   adsurl = {http://adsabs.harvard.edu/abs/2003astro.ph..7116M},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+
+
+@ARTICLE{Seiffert:2002gh,
+   author = {{Seiffert}, M. and others},
+    title = "{1/f noise and other systematic effects in the Planck-LFI radiometers}",
+  journal = {\aap},
+   eprint = {arXiv:astro-ph/0206093},
+ keywords = {cosmology: cosmic microwave background, observations, instrumentation: detectors, methods: analytical},
+     year = 2002,
+    month = sep,
+   volume = 391,
+    pages = {1185-1197},
+      doi = {10.1051/0004-6361:20020880},
+   adsurl = {http://adsabs.harvard.edu/abs/2002A%26A...391.1185S},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+
+@Article{Reich:2006iq,
+     author    = "Reich, Wolfgang",
+     title     = "{Galactic polarization surveys}",
+     year      = "2006",
+     journal =  "ArXiv Astrophysics e-prints",
+     eprint    = "astro-ph/0603465",
+     archivePrefix = "arXiv",
+     SLACcitation  = "%%CITATION = ASTRO-PH/0603465;%%"
+}
+
+@Article{mortonson_2007,
+ author = {Mortonson, M and Hu, W},
+ title = "{The Maximum B-Mode Polarization Of The Cosmic Microwave Background From Inhomogeneous Reionization}",
+ journal = {\apj},
+ year = {2007}
+}
+
+
+
+@PhdThesis{oliver_2009,
+ author = "King, Oliver",
+ title = "{C-BASS: The C-Band All-Sky Survey}",
+ school = "{University of Oxford}",
+ year = "2009"
+}
+
+@Book{rudge_1982,
+ title = "{The Handbook of antenna design}",
+ publisher = "{Peter Perigrinus}",
+ year = {1982},
+editor = "Rudge, A.W and others",
+volume = {1}
+}
+
+@Book{meeks_1976,
+ title = "{Methods of Experimental Physics}",
+ publisher = "{Academic Press}",
+ year = {1976},
+editor = "Meeks, M.L",
+volume = "{12B}"
+}
+
+
+@Book{tinbergen_1996,
+ title = "{Astronomical Polarimetry}",
+ publisher = "{Cambridge University Press}",
+ year = {1996},
+author = "Tinbergen, Jaap",
+
+}
+
+@INPROCEEDINGS{2004mmu..symp..309Z,
+   author = {{Zaldarriaga}, M.},
+    title = "{The Polarization of the Cosmic Microwave Background}",
+booktitle = {Measuring and Modeling the Universe},
+     year = 2004,
+   editor = {{Freedman}, W.~L.},
+    pages = {309-+},
+   adsurl = {http://adsabs.harvard.edu/abs/2004mmu..symp..309Z},
+  adsnote = {Provided by the Smithsonian/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2002ApJ...578...12C,
+   author = {{Chiueh}, T. and {Ma}, C.-J.},
+    title = "{The Annulus-filtered E and B Modes in Cosmic Microwave Background Radiation Polarization}",
+  journal = {ApJ},
+   eprint = {arXiv:astro-ph/0101205},
+     year = 2002,
+    month = oct,
+   volume = 578,
+    pages = {12-24},
+      doi = {10.1086/342398},
+   adsurl = {http://adsabs.harvard.edu/abs/2002ApJ...578...12C},
+  adsnote = {Provided by the Smithsonian/NASA Astrophysics Data System}
+}
+
+@Misc{cbass_website,\cite{galindo1964}
+author = {{C-BASS Collaboration Website}},
+title = {{C-BASS: C-Band All-Sky Survey}},
+howpublished = {\url{http://www.astro.caltech.edu/cbass/}}
+}
+
+@Misc{hu_2001,
+author = {{Hu, W.}},
+title = {{Intermediate CMB tutorial }},
+howpublished = {\url{http://background.uchicago.edu/~whu/intermediate/intermediate.html}},
+year = {2001}
+
+}
+
+@Misc{Hill_M,
+author = {{Hill, M.}},
+title = {{Pointing the CBI }},
+howpublished = {\url{http://www.astro.caltech.edu/~mcs/CBI/pointing/}},
+year = {2001},
+}

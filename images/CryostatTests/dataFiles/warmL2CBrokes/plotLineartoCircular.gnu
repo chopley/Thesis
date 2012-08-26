@@ -1,0 +1,19 @@
+set terminal postscript enhanced color
+set output "ELCPlot.ps"
+set datafile separator ","
+set yrange [-20:-6]
+set xrange [4.2:5.7]
+plot "./NegEy_ELCP" using 1:3,"./NegEx_ELCP" using 1:3,"./PosEy_ELCP" using 1:3,"./PosEx_ELCP" using 1:3
+
+set yrange [-20:-6]
+set xrange [4.2:5.7]
+set output "ERCPlot.ps"
+plot "./NegEy_ERCP" using 1:3,"./NegEx_ERCP" using 1:3,"./PosEy_ERCP" using 1:3,"./PosEx_ERCP" using 1:3
+
+set yrange [-180:180]
+set output "ERCPhasePlot.ps"
+plot "./NegEy_ERCP" using 1:2,"./NegEx_ERCP" using 1:2,"./PosEy_ERCP" using 1:2,"./PosEx_ERCP" using 1:2
+
+set yrange [-180:180]
+set output "ELCPhasePlot.ps"
+plot "./NegEy_ELCP" using 1:2,"./NegEx_ELCP" using 1:2,"./PosEy_ELCP" using 1:2,"./PosEx_ELCP" using 1:2

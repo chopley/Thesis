@@ -1,0 +1,61 @@
+\chapter{The Southern C-BASS System}
+C-BASS uses cassegrain optics
+
+\section{System Diagram}
+  \subsection{Self-generated RFI considerations}
+  \subsection{Remote Operations}
+
+\section{Servo Control}
+
+  \subsection{Description}
+
+    \subsubsection{Requirements}
+    \subsubsection{Hardware}
+    \subsubsection{Software Integration}
+
+  \subsubsection{Sensor Hardware Design}
+  \subsection{Tests}
+    \subsubsection{12~GHz receiver on Geostationary satellite}
+    \subsubsection{Optical Pointing}
+
+
+\section{Primary Dish Profile}
+  \subsection{Photogrammetry}
+Close range photogrammetry is a fairly recent innovation, which allows highly accurate measurements of large objects to be made in an fast, often automated fashion \cite{Luhmann2010}. Photographs are taken from different angles of targets placed in convenient positions on the object being measured. The positions of the individual targets can then be determined, with the accuracy varying as a function of camera resolution, target contrast, and separation angle. Accuracies of up to 1:250 000 are routinely quoted when using carefully calibrated equipment.  Fortunately,  the technique is suitable for use with high end consumer grade cameras \cite{Deng2001}, althought the expected accuracy is lowered.
+
+We made use of this technique in order to characterise the donated Telkom dish.
+
+\subsubsection{Target Choice}
+
+The industry standard is to use retroflective targets. These generally take the form of black adhesive 'stickers' with reflective sections hand pasted into place. These can be expensive to manufacture and put into position.
+
+In the name of completeness and frugality, we first experimented with projecting a series of targets onto the dish surface. This would allow for a high density
+
+\begin{figure}[ht]
+ \centering
+ \includegraphics[width=\textwidth]{./images/photogrammetry/PhotoExamples/projectedAndRetrofelctive.JPG}
+ % projectedAndRetrofelctive.JPG: 3504x2336 pixel, 72dpi, 123.61x82.41 cm, bb=
+ \caption{An example of a photograph taken of the dish surface}
+ \label{fig:photogrammetryExampleOfPhotograph}
+\end{figure}
+
+    \subsubsection{Dish Surface Measurement}
+
+A few different methods were employed- Initially we tried to use 
+    \subsubsection{Transportation Quality Control}
+
+  \subsection{Focal point checks}
+
+\section{Site Establishment}
+\subsection{Infrastructure}
+  \subsubsection{Power Provision}
+  \subsubsection{Optical Fibre}
+  \subsubsection{Access}
+    \subsubsection{Control Shelter Considerations}
+    \subsubsection{RFI Survey}
+
+
+\subsection{Science Requirements}
+  
+
+

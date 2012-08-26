@@ -1,0 +1,1 @@
+In these measurements I've used the output from LNA 2 to feed into Tray1, Ch1. The output of Tray1 Ch1 (with 3dB+10dB pads) is then used as a common input to all four of the tray2 channels. I've measured the full IF bandwidth, by removing the HPF and emasuring the output. left the LPF in but terminated the output

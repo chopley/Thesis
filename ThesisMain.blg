@@ -1,0 +1,61 @@
+This is BibTeX, Version 0.99c (TeX Live 2009/Debian)
+The top-level auxiliary file: ThesisMain.aux
+The style file: agsm.bst
+A level-1 auxiliary file: Introduction.aux
+A level-1 auxiliary file: CBASSProject.aux
+A level-1 auxiliary file: NorthernSystem.aux
+A level-1 auxiliary file: SouthReceiver_Components.aux
+A level-1 auxiliary file: ReceiverTesting.aux
+A level-1 auxiliary file: SouthernSystem.aux
+A level-1 auxiliary file: SouthernReceiverDeployment.aux
+A level-1 auxiliary file: PreliminaryData.aux
+A level-1 auxiliary file: Conclusions.aux
+Database file #1: ./bib_files/library.bib
+Warning--can't use both author and editor fields in Delabrouille2009
+Warning--there's a number but no volume in Futatsumori2008
+Warning--there's a number but no volume in Hansen2006
+Warning--empty school in King2009
+Warning--there's a number but no volume in Mennella2003b
+Warning--empty publisher in Pozar2005
+You've used 37 entries,
+            2909 wiz_defined-function locations,
+            891 strings with 12900 characters,
+and the built_in function-call counts, 253994 in all, are:
+= -- 42103
+> -- 3485
+< -- 2
++ -- 20989
+- -- 1106
+* -- 22820
+:= -- 49526
+add.period$ -- 37
+call.type$ -- 37
+change.case$ -- 519
+chr.to.int$ -- 36
+cite$ -- 43
+duplicate$ -- 564
+empty$ -- 1114
+format.name$ -- 1215
+if$ -- 45530
+int.to.chr$ -- 6
+int.to.str$ -- 0
+missing$ -- 33
+newline$ -- 139
+num.names$ -- 381
+pop$ -- 170
+preamble$ -- 1
+purify$ -- 555
+quote$ -- 0
+skip$ -- 444
+stack$ -- 0
+substring$ -- 61077
+swap$ -- 86
+text.length$ -- 520
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 138
+warning$ -- 6
+while$ -- 813
+width$ -- 0
+write$ -- 499
+(There were 6 warnings)

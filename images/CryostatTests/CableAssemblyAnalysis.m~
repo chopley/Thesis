@@ -1,0 +1,86 @@
+%CJC 28 May 2012
+%Script to analyse data taken while cooling the cryostat- a
+%cable assembly was cooled through to operating temperature and the S
+%parameters monitored through VNA. At the same time an identical cable
+%assembly was used to monitor the S parameters through the L2C->141 Al
+%Cable->Coupler->180Hybrid.
+%This should allow an accurate estimate of the loss through the L2C->Hybrid
+%section when cold.
+
+
+[SCable10K TempCable10K]=importfile('dataFiles/cableLoss10K_2012_05_27_13:17:36_+10.256_10.368722.txt'); %import the 10K cable data
+[SCable77K TempCable77K]=importfile('dataFiles/cableLoss77K_2012_05_26_22:18:42_+78.939_83.403908.txt'); %import the 77K cable data
+[SCable290K TempCable290K]=importfile('dataFiles/cableLossWarm_2012_05_26_14:20:26_+298.27_243.685669.txt'); %import the 290K cable data
+
+[SL2CHybridPort2_10K TempSL2CHybridPort2_10K]=importfile('dataFiles/coldVNA_phaseReferenced_HybridPort22012_05_27_15:15:08_+10.236_10.350463.txt'); %import the 290K cable data
+[SL2CHybridPort3_10K TempSL2CHybridPort3_10K]=importfile('dataFiles/coldVNA_phaseReferenced_HybridPort3_2012_05_27_15:25:56_+10.254_10.362333.txt'); %import the 290K cable data
+
+[SL2CHybridPort2_290K TempSL2CHybridPort2_290K]=importfile('dataFiles/warmL2C+HybridPort2_2012_05_26_14:28:02_+298.28_243.702881.txt'); %import the 290K cable data
+[SL2CHybridPort3_290K TempSL2CHybridPort3_290K]=importfile('dataFiles/warmVNA_HybridPort3_2012_05_26_14:25:20_+298.27_243.696899.txt'); %import the 290K cable data
+
+[SL2C_290FailureK TempL2C_290FailureK]=importfile('dataFiles/L2CWarmFailureMode22May.txt'); %import the 290K cable data
+[SL2C_10FailureK TempL2C_10FailureK]=importfile('dataFiles/L2CColdFailureMode22May.txt'); %import the 290K cable data
+[SCable10K22may TempCable10K22may]=importfile('dataFiles/cableLossCold22May.txt'); %import the 290K cable data
+[SCable290K22may TempCable290K22may]=importfile('dataFiles/cableLossWarm22May.txt'); %import the 290K cable data
+
+close all
+
+plot(SCable10K(:,1),SCable10K(:,3),'b')
+hold on
+plot(SCable77K(:,1),SCable77K(:,3),'k')
+plot(SCable290K(:,1),SCable290K(:,3),'r')
+legend('10K','77K','290K');
+title('Cable Assembly Loss with Temperature')
+xlabel('Frequency [GHz]')
+ylabel('S21 [dB]')
+grid on
+print -depsc2 CableAssemblyLoss
+
+hold off
+figure
+plot(SL2CHybridPort2_10K(:,1),SL2CHybridPort2_10K(:,3)-SCable10K(:,3),'b')
+hold on
+plot(SL2CHybridPort3_10K(:,1),SL2CHybridPort3_10K(:,3)-SCable10K(:,3),'b.-')
+plot(SL2CHybridPort2_290K(:,1),SL2CHybridPort2_290K(:,3)-SCable290K(:,3),'r')
+plot(SL2CHybridPort3_290K(:,1),SL2CHybridPort3_290K(:,3)-SCable290K(:,3),'r.-')
+legend('10K Port2','10K Port3','290K Port2','290K Port3');
+title('L2C+Coupler+Hybrid (Corrected for Cable Assy Loss)')
+xlabel('Frequency [GHz]')
+ylabel('S21 [dB]')
+grid on
+print -depsc2 LossL2C+Coupler+Hybrid
+
+figure
+plot(SCable290K22may(:,1),SCable290K22may(:,3),'r')
+hold on
+plot(SCable10K22may(:,1),SCable10K22may(:,3),'b.-')
+legend('290K','10K');
+title('Cable Measurements 22May')
+xlabel('Frequency [GHz]')
+ylabel('S21 [dB]')
+grid on
+print -depsc2 CableAssemblyLoss22May
+
+
+figure
+plot(SL2C_290FailureK(:,1),SCable290K22may(:,3)-SL2C_290FailureK(:,3),'r')
+hold on
+plot(SL2C_10FailureK(:,1),SL2C_10FailureK(:,3)+SCable10K22may(:,3),'b.-')
+legend('290K','10K');
+title('L2C in Failure Mode (Corrected for Cable Assy Loss)')
+xlabel('Frequency [GHz]')
+ylabel('S21 [dB]')
+grid on
+print -depsc2 LossL2CFailureModeUsingCableAssy
+
+
+figure
+plot(SL2C_290FailureK(:,1),SL2C_290FailureK(:,3),'r')
+hold on
+plot(SL2C_10FailureK(:,1),SL2C_10FailureK(:,3),'b.-')
+legend('290K','10K');
+title('L2C in Failure Mode ')
+xlabel('Frequency [GHz]')
+ylabel('S21 [dB]')
+grid on
+print -depsc2 LossL2CFailureMode

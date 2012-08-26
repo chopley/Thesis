@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+  <name>diaShapes - coupler</name>
+  <icon>coupler.png</icon>
+  <connections>
+    <point x="2.49" y="1.54255"/>
+    <point x="4.54061" y="2.44411"/>
+    <point x="2.49" y="2.44411"/>
+    <point x="2.49" y="1.99333"/>
+    <point x="4.54061" y="1.54255"/>
+    <point x="4.54061" y="1.99333"/>
+    <point x="3.5153" y="2.44411"/>
+    <point x="3.5153" y="1.54255"/>
+    <point x="2.5163" y="2.00125"/>
+    <point x="4.2463" y="1.99743"/>
+    <point x="3.3813" y="1.99934"/>
+    <point x="4.3963" y="1.9971"/>
+    <point x="4.19652" y="2.09754"/>
+    <point x="4.2463" y="1.99743"/>
+    <point x="4.19608" y="1.89754"/>
+    <point x="4.29641" y="2.04732"/>
+    <point x="4.22141" y="2.04748"/>
+    <point x="4.22119" y="1.94748"/>
+  </connections>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:rect style="fill: #d8e5e5" x="2.49" y="1.54255" width="2.05061" height="0.901561"/>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x="2.49" y="1.54255" width="2.05061" height="0.901561"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="2.5163" y1="2.00125" x2="4.2463" y2="1.99743"/>
+    <svg:polygon style="fill: #000000" points="4.3963,1.9971 4.19652,2.09754 4.2463,1.99743 4.19608,1.89754 "/>
+    <svg:polygon style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" points="4.3963,1.9971 4.19652,2.09754 4.2463,1.99743 4.19608,1.89754 "/>
+    <svg:path style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" d="M 3.89498 1.99472 C 3.47071,2.0124 3.50905,2.03005 3.5153,1.54255"/>
+  </svg:svg>
+</shape>

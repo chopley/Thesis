@@ -1,0 +1,170 @@
+\relax 
+\bibstyle{agsm}
+\citation{mortonson_2007}
+\citation{2002ApJ...578...12C}
+\@writefile{toc}{\contentsline {section}{\numberline {1}Introduction}{1}}
+\providecommand*\caption@xref[2]{\@setref\relax\@undefined{#1}}
+\newlabel{fig:ovroTelescope}{{1a}{2}}
+\newlabel{sub@fig:ovroTelescope}{{(a)}{a}}
+\newlabel{fig:SaTelescope}{{1b}{2}}
+\newlabel{sub@fig:SaTelescope}{{(b)}{b}}
+\@writefile{lof}{\contentsline {figure}{\numberline {1}{\ignorespaces Photographs of the Northern and Southern C-BASS antennas\relax }}{2}}
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(a)}{\ignorespaces {The completed OVRO antenna. The foam support of the secondary reflector which reduces scattering of incoming radiation compared to quadrupod support legs and the metallic baffles installed around the primary reduce the far-out sidelobes.}}}{2}}
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(b)}{\ignorespaces {The South African antenna installed at the Karoo site}}}{2}}
+\@writefile{toc}{\contentsline {section}{\numberline {2}Radio Frequency Interference (RFI)}{3}}
+\@writefile{lof}{\contentsline {figure}{\numberline {2}{\ignorespaces C-BASS passband changes\relax }}{4}}
+\newlabel{fig:passbands}{{2}{4}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3}{\ignorespaces Annotated Intensity map (courtesy Oliver) of the sky as seen by the Owens Valley C-BASS antenna. Note the elevation extent of the diffraction patterns seen as a result of the terrestrial radiation \relax }}{5}}
+\newlabel{fig:intensity}{{3}{5}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4}{\ignorespaces Installing additional filtering: These images show the dramatic improvement in data quality brought about by the addition of notch filters and additional band defining filters in the C-BASS RF path\relax }}{6}}
+\newlabel{fig:intensityFiltering}{{4}{6}}
+\@writefile{lof}{\contentsline {figure}{\numberline {5}{\ignorespaces \relax }}{7}}
+\newlabel{fig:RFImaxHold}{{5}{7}}
+\@writefile{toc}{\contentsline {section}{\numberline {3}The Digital Receiver}{8}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.1}RF Chain}{8}}
+\newlabel{sec:digitalRX}{{3.1}{8}}
+\@writefile{lof}{\contentsline {figure}{\numberline {6}{\ignorespaces Diagram of the analog front end of the digital receiver. There are significantly fewer analog components than the Northern Hemisphere polarimeter (see Appendix\nobreakspace  {}B\hbox {}\xspace  , Figure\nobreakspace  {}12\hbox {}\xspace  ). The diagram shows the down-conversion of the 1\nobreakspace  {}GHz band (into two 500\nobreakspace  {}MHz bands) followed by the ADC capture. The digital processing is shown on Figure\nobreakspace  {}7\hbox {}\xspace   \relax }}{8}}
+\newlabel{fig:digital_receiver}{{6}{8}}
+\@writefile{lof}{\contentsline {figure}{\numberline {7}{\ignorespaces Diagram of the digital polarimeter. The diagram shows one of the 500\nobreakspace  {}MHz bands. The signals are sampled, fast-Fourier transformed, gain and phase adjusted, demodulated, added, correlated and then accumulated to produce the values required for the Stokes parameters. See Appendix\nobreakspace  {}A\hbox {}\xspace  , Equations\nobreakspace  {}1\hbox {}$\rightarrow $4\hbox {} for clarification on the correlations used to produce the Stokes parameters\relax }}{9}}
+\newlabel{fig:digital_receiver_mine}{{7}{9}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.2}Hardware State Summary}{10}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.3}Software and FPGA Firmware Status}{12}}
+\newlabel{fig:analogTrayForDigitala}{{8a}{13}}
+\newlabel{sub@fig:analogTrayForDigitala}{{(a)}{a}}
+\newlabel{fig:analogTrayForDigitalb}{{8b}{13}}
+\newlabel{sub@fig:analogTrayForDigitalb}{{(b)}{b}}
+\newlabel{fig:rackForDigital}{{8c}{13}}
+\newlabel{sub@fig:rackForDigital}{{(c)}{c}}
+\@writefile{lof}{\contentsline {figure}{\numberline {8}{\ignorespaces Integration of the digital receiver. See Figure\nobreakspace  {}6\hbox {}\xspace   for a diagram of the integrated system.\relax }}{13}}
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(a)}{\ignorespaces {The top half of the analog part of the digital receiver including the 4.5$\rightarrow $5.0\nobreakspace {}GHz bandpass filter, 4.5\nobreakspace {}GHz local oscillator, down mixers, splitter, 0$\rightarrow $500\nobreakspace {}MHz low pass filter, 500$\rightarrow $1000\nobreakspace {}MHz band pass filters. This tray will be temperature controlled}}}{13}}
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(b)}{\ignorespaces {The bottom half of the same tray}}}{13}}
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(c)}{\ignorespaces {The digital receiver housing}}}{13}}
+\newlabel{fig:digitalReceiverIntegration}{{8}{13}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.4}Test Measurements}{14}}
+\newlabel{sec:roachTests}{{3.4}{14}}
+\@writefile{lof}{\contentsline {figure}{\numberline {9}{\ignorespaces Test Setup of RF test signal input to the ADC and ROACH board, producing a pseudo left (LCP) and right (RCP) circular polarisation signals, which are then injected into the RF chain already described in Section\nobreakspace  {}3.1\hbox {}. If LCP and RCP are in phase we expect pure Q signal; if they are $90^{\circ }$ out of phase we expect pure U signal. See Appendix\nobreakspace  {}A\hbox {},\nobreakspace  {}Equation\nobreakspace  {}4\hbox {} for further details\relax }}{14}}
+\newlabel{fig:roachTest}{{9}{14}}
+\@writefile{lof}{\contentsline {figure}{\numberline {10}{\ignorespaces Pure tone test signal used as input. This response is clearly evident in Channel 20. These plots show that the digital system successfully separates the Channel Intensity from Reference load (a), and that rotating the relative phases of the input signal through $90^{\circ }$ results in Stokes Q rotating into Stokes U as expected. Furthermore, we observe pure Stokes Q with no phase difference, and pure Stokes U with $90^{\circ }$ phase difference, as expected. For further information see Appendix\nobreakspace  {}A\hbox {}\relax }}{15}}
+\newlabel{fig:rotating}{{10}{15}}
+\@writefile{toc}{\contentsline {section}{\numberline {4}Summary and Timeline}{16}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.1}Control and Data Acquisition}{16}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.2}Backend}{16}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.3}RF Chain}{16}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.4}South African Infrastructure}{17}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.5}Timeline}{17}}
+\@writefile{toc}{\contentsline {section}{\numberline {5}Appendix}{19}}
+\citation{tinbergen_1996}
+\citation{tinbergen_1996}
+\@writefile{toc}{\contentsline {section}{\numberline {A}Stokes Parameters}{20}}
+\newlabel{sec:stokes}{{A}{20}}
+\newlabel{eq:stokes_circ_I}{{1}{20}}
+\newlabel{eq:stokes_circ_Q}{{2}{20}}
+\newlabel{eq:stokes_circ_U}{{3}{20}}
+\newlabel{eq:stokes_circ_V}{{4}{20}}
+\newlabel{eq:stokes_circ}{{4}{20}}
+\citation{Reich:2006iq}
+\citation{2003ApJS..148...97B}
+\citation{Mennella:2003ii}
+\citation{Seiffert:2002gh}
+\newlabel{eq:stokes_lin_I}{{5}{21}}
+\newlabel{eq:stokes_lin_Q}{{6}{21}}
+\newlabel{eq:stokes_lin_U}{{7}{21}}
+\newlabel{eq:stokes_lin_V}{{8}{21}}
+\newlabel{eq:stokes_lin}{{8}{21}}
+\@writefile{toc}{\contentsline {section}{\numberline {B}Pseudo-correlation architecture}{21}}
+\newlabel{sec:pseudoCorrelation}{{B}{21}}
+\citation{Seiffert:2002gh}
+\@writefile{toc}{\contentsline {section}{\numberline {C}Digital Implementation}{23}}
+\newlabel{sec:digitalImplementation}{{C}{23}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {C.1}Advantages of the Digital Implementation}{23}}
+\citation{Mennella:2003ii}
+\citation{Mennella:2003ii}
+\citation{oliver_2009}
+\citation{oliver_2009}
+\@writefile{lof}{\contentsline {figure}{\numberline {11}{\ignorespaces The pseudo correlation architecture \cite {Mennella:2003ii}. The diagram is relevant for one of the orthogonal polarisation states- in the receiver there will be two such signal paths for left and right hand circular polarisation respectively. \relax }}{24}}
+\newlabel{fig:pseudo_correlation}{{11}{24}}
+\newlabel{RF1}{25}
+\@writefile{lof}{\contentsline {figure}{\numberline {12}{\ignorespaces The pseudo-correlation analog C-BASS radiometer/polarimeter designed by Dr. Oliver King and currently installed on the Owens Valley Antenna \cite {oliver_2009}. The 90$^{\circ }$\xspace  phase switch in the front,cold section, converts the linear polarised signal to circular polarised. The signal is then passed through the 180$^{\circ }$ hybrid, coupling in the load signal and amplified. The signal then splits into the radiometer and polarimeter sections. The radiometer signals are phase switched and passed through a second 180$^{\circ }$ hybrid producing a signal similar to that illustrated previously in Figure\nobreakspace  {}11\hbox {}\xspace  . The polarimeter signals are passed through a 180$^{\circ }$ hybrid to remove the load signal, before phase switching and sampling.\relax }}{25}}
+\newlabel{fig:analog_receiver}{{12}{25}}
+\citation{splitRingClassic}
+\@writefile{toc}{\contentsline {section}{\numberline {D}Filter Design}{26}}
+\newlabel{sec:filterDesign}{{D}{26}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {D.1}Specifications}{26}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {D.2}Design}{26}}
+\citation{splitRingClassic}
+\citation{splitRingClassic}
+\newlabel{fig:squareResonator}{{13a}{27}}
+\newlabel{sub@fig:squareResonator}{{(a)}{a}}
+\newlabel{fig:circleResonator}{{13b}{27}}
+\newlabel{sub@fig:circleResonator}{{(b)}{b}}
+\newlabel{fig:design1}{{13c}{27}}
+\newlabel{sub@fig:design1}{{(c)}{c}}
+\newlabel{fig:s21design1}{{13d}{27}}
+\newlabel{sub@fig:s21design1}{{(d)}{d}}
+\@writefile{lof}{\contentsline {figure}{\numberline {13}{\ignorespaces Possible resonance structures for the notch filter \citep  {splitRingClassic}\xspace  . These diagrams show the dimensions that can be adjusted. We chose to pursue the square type resonance structure 13a\hbox {}\relax }}{27}}
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(a)}{\ignorespaces {Square Resonator}}}{27}}
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(b)}{\ignorespaces {Circular Resonator}}}{27}}
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(c)}{\ignorespaces {Manufactured Bandstop filter with a series of differently tuned square resonator structures}}}{27}}
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(d)}{\ignorespaces {S21 Bandstop filter Result- See SRR plot}}}{27}}
+\newlabel{fig:squareRingResonator}{{13}{27}}
+\@writefile{lof}{\contentsline {figure}{\numberline {14}{\ignorespaces The manufactured 4.65\nobreakspace  {}GHz notch filter. Used Rogers RO4350 10mil (Er=3.66) with 17.5um Copper layers for manufacture. Note the error in manufacture. This produced an additional notch feature (apparent in Figure\nobreakspace  {}15\hbox {}) at \nobreakspace  {}10\% higher frequency than the central notch feature. This has been corrected\relax }}{28}}
+\newlabel{fig:4_65GHzFilter}{{14}{28}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {D.3}Manufacture and Testing}{28}}
+\@writefile{lof}{\contentsline {figure}{\numberline {15}{\ignorespaces Measured Results of the three square ring resonator structures. We see the additional feature \nobreakspace  {}10\% higher in frequency caused by the error in manufacture (see Figure\nobreakspace  {}14\hbox {}) in all three of the designs. We also see that the central notch behaves as we expect although they are approximately 50\nobreakspace  {}MHz lower than the simulations predict\relax }}{29}}
+\newlabel{fig:MeasuredResults}{{15}{29}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {D.4}Cooling the Filters}{30}}
+\@writefile{lof}{\contentsline {figure}{\numberline {16}{\ignorespaces Cooling the Filter in the test cryostat. Note the additional notch feature becomes more pronounce when cooled.\relax }}{30}}
+\newlabel{fig:coolingResponse}{{16}{30}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {D.5}Final Filter Design and Packaging}{31}}
+\@writefile{lof}{\contentsline {figure}{\numberline {17}{\ignorespaces The final Notch Filter design and response. The filters are placed after the low noise amplifiers (LNAs) with the attenuator on the input is used to reduce the reflection coefficient (S11) seen by the LNAs.\relax }}{32}}
+\newlabel{fig:finalNotchFilter}{{17}{32}}
+\@writefile{lof}{\contentsline {figure}{\numberline {18}{\ignorespaces The notch filters installed in the cryostat at Owens Valley\relax }}{33}}
+\newlabel{fig:cryostatInstall}{{18}{33}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {D.6}Filter Installation at Owens Valley Antenna}{33}}
+\citation{splitRingHTS}
+\@writefile{toc}{\contentsline {subsection}{\numberline {D.7}Other Possibilities}{34}}
+\@writefile{lof}{\contentsline {figure}{\numberline {19}{\ignorespaces The HMC129LC4 prototype mixer. The substrate is RO4350 250$\mu $m duroid ($\epsilon =3.66$) with ${\begingroup 1\endgroup \over 2}$\nobreakspace  {}oz/ft$^{2}$ Copper layer (17.5$\mu $m). \relax }}{35}}
+\newlabel{fig:mixer}{{19}{35}}
+\@writefile{toc}{\contentsline {section}{\numberline {E}Digital Receiver Hardware}{35}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {E.1}Down mixer}{35}}
+\newlabel{sec:mixers}{{E.1}{35}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {E.1.1}Mixer Results}{35}}
+\newlabel{sec:mixerResults}{{E.1.1}{35}}
+\@writefile{lof}{\contentsline {figure}{\numberline {20}{\ignorespaces RF Return Loss Comparison of the Hittite evaluation HMC129LC4 mixer board and the Oxford HMC129LC4 mixer board properties\relax }}{36}}
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(a)}{\ignorespaces {RF Return Loss(Magnitude)}}}{36}}
+\@writefile{lof}{\contentsline {figure}{\numberline {21}{\ignorespaces LO Return Loss Comparison of the Hittite evaluation HMC129LC4 mixer board and the Oxford HMC129LC4 mixer board properties\relax }}{37}}
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(a)}{\ignorespaces {LO Return Loss(Magnitude)}}}{37}}
+\@writefile{lof}{\contentsline {figure}{\numberline {22}{\ignorespaces IF Return Loss Comparison of the Hittite evaluation HMC129LC4 mixer board and the Oxford HMC129LC4 mixer board properties\relax }}{38}}
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(a)}{\ignorespaces {IF Return Loss(Magnitude)}}}{38}}
+\@writefile{lof}{\contentsline {figure}{\numberline {23}{\ignorespaces Insertion loss 0$\rightarrow $1000\nobreakspace  {}MHz IF band of the HMC129LC4\relax }}{39}}
+\citation{matthaei1980}
+\citation{murataAWR}
+\@writefile{toc}{\contentsline {subsection}{\numberline {E.2}Filter Design}{40}}
+\newlabel{sec:lowfreqFilters}{{E.2}{40}}
+\@writefile{lof}{\contentsline {figure}{\numberline {24}{\ignorespaces Comparison of different stages of the Filter construction process. These plots show the importance of properly enclosing the filter boards\relax }}{41}}
+\newlabel{fig:filterBoxing}{{24}{41}}
+\@writefile{lof}{\contentsline {figure}{\numberline {25}{\ignorespaces Low frequency lumped element filter designs and manufacture\relax }}{42}}
+\newlabel{fig:filterDesigns}{{25}{42}}
+\@writefile{lof}{\contentsline {figure}{\numberline {26}{\ignorespaces Simulated filter performance against measured performance. \relax }}{43}}
+\newlabel{fig:simvsmeasuredlpf10a}{{26}{43}}
+\newlabel{fig:LowFrequency0_500MHz}{{27a}{45}}
+\newlabel{sub@fig:LowFrequency0_500MHz}{{(a)}{a}}
+\newlabel{fig:LowFrequency500_1000MHza}{{27b}{45}}
+\newlabel{sub@fig:LowFrequency500_1000MHza}{{(b)}{b}}
+\newlabel{fig:LowFrequencyFilters}{{\caption@xref {fig:LowFrequencyFilters}{ on input line 129}}{45}}
+\@writefile{lof}{\contentsline {figure}{\numberline {27}{\ignorespaces The 500\nobreakspace  {}MHz lowpass filter and the 500$\rightarrow $1000MHz bandpass filter. Since the bandpass filter operates at high frequenciess where lumped element design is difficult, we decided to make the band pass filter from a cascaded high pass filter (500MHz) and low pass filter (1000MHz). This allowed us to optimise the high end and low end independently. There is still a little work to do on the 1000\nobreakspace  {}MHz filter (i.e the high end of the bandpass filter), but out understanding of these components' behavious at high frequency has improved significantly, and we believe this will be reflected in the next iteration\relax }}{45}}
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(a)}{\ignorespaces {The 0$\rightarrow $500MHz Low pass filter.}}}{45}}
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(b)}{\ignorespaces {The 1000\nobreakspace {}MHz low pass filter }}}{45}}
+\bibdata{./bib_files/references}
+\bibcite{2003ApJS..148...97B}{{1}{2003}{{{Bennett} et~al.}}{{}}}
+\bibcite{2002ApJ...578...12C}{{2}{2002}{{{Chiueh} \&\ {Ma}}}{{}}}
+\bibcite{splitRingHTS}{{3}{2008}{{Futatsumori et~al.}}{{Futatsumori, Hikage, Nojima, Akasegawa, Nakanish \&\ Yamanaka}}}
+\bibcite{splitRingClassic}{{4}{2004}{{Garcia-Garcia et~al.}}{{Garcia-Garcia, Bonache, Gil, Martin, Marques, Falcone, Lopetegi, Laso \&\ Sorolla}}}
+\bibcite{oliver_2009}{{5}{2009}{{King}}{{}}}
+\bibcite{matthaei1980}{{6}{1980}{{Matthaei et~al.}}{{Matthaei, Young \&\ Jones}}}
+\bibcite{Mennella:2003ii}{{7}{2003}{{Mennella et~al.}}{{Mennella, Bersanelli, Butler, Maino, Mandolesi, Morgante, Valenziano, Villa, Gaier, Seiffert et~al.}}}
+\bibcite{mortonson_2007}{{8}{2007}{{Mortonson \&\ Hu}}{{}}}
+\bibcite{murataAWR}{{9}{2009}{{Murata}}{{}}}
+\bibcite{Reich:2006iq}{{10}{2006}{{Reich}}{{}}}
+\bibcite{Seiffert:2002gh}{{11}{2002}{{{Seiffert} et~al.}}{{}}}
+\bibcite{tinbergen_1996}{{12}{1996}{{Tinbergen}}{{}}}

@@ -1,0 +1,35 @@
+InfoKey: Creator
+InfoValue: Draw&#0;
+InfoKey: Producer
+InfoValue: OpenOffice.org 3.2&#0;
+InfoKey: Author
+InfoValue: Charles Copley&#0;
+InfoKey: CreationDate
+InfoValue: D:20101011123353+01'00'
+PdfID0: 538877894669c418d899854f6a6206b
+PdfID1: 538877894669c418d899854f6a6206b
+NumberOfPages: 8
+BookmarkTitle: Slide 1&#0;
+BookmarkLevel: 1
+BookmarkPageNumber: 1
+BookmarkTitle: Slide 2&#0;
+BookmarkLevel: 1
+BookmarkPageNumber: 2
+BookmarkTitle: Slide 3&#0;
+BookmarkLevel: 1
+BookmarkPageNumber: 3
+BookmarkTitle: Slide 4&#0;
+BookmarkLevel: 1
+BookmarkPageNumber: 4
+BookmarkTitle: Slide 5&#0;
+BookmarkLevel: 1
+BookmarkPageNumber: 5
+BookmarkTitle: Slide 6&#0;
+BookmarkLevel: 1
+BookmarkPageNumber: 6
+BookmarkTitle: Slide 7&#0;
+BookmarkLevel: 1
+BookmarkPageNumber: 7
+BookmarkTitle: Slide 8&#0;
+BookmarkLevel: 1
+BookmarkPageNumber: 8

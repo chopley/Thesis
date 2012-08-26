@@ -1,0 +1,3 @@
+I could not just terminate the inputs to Tray 2 as this does not have sufficient power to get into dynamic range of the spectrum analyser.
+
+So instead I've input the same power (namely Ch1 from Tray 1) into all of the Channels- Note there is a 3dB+20dB pad on Ch1 output- All the measurements are done on the full 1GHz IF band but after the splitter- LO is at 15dBm 4.5GHz from sig gen
